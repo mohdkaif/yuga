@@ -4901,6 +4901,12 @@ footer {
 .link_sec ul {
     column-count: 2;
 }
+.mobile-ads-home{
+    display: none;
+}
+.desktop-home-ads{
+    display: block;
+}
 /*.navbar-nav > li > a{
     font-size:16px;
 }*/
@@ -4936,6 +4942,12 @@ footer {
 
     header .container-fluid.hidden-xs {
         padding: 0;
+    }
+    .mobile-ads-home{
+        display: block;
+    }
+    .desktop-home-ads{
+        /*display: none;*/
     }
 
     .navbar-nav > li > a {
