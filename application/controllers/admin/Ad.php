@@ -80,7 +80,7 @@ class Ad extends CI_Controller {
        ->num_rows();
         
         if ($data['page'] == '' || $data['ad_position'] == '' || $data['embed_code'] == '') {
-            $sdata['exception'] = 'Please enter ad inforamation.';
+            $sdata['exception'] = 'Please enter ad information.';
         } elseif ($count > 0) {
             $sdata['exception'] = display('ad_exist_msg');
         } else {

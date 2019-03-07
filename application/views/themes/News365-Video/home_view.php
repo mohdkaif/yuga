@@ -496,11 +496,11 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
             <!-- /.left content inner -->
          <div class="col-md-4 col-sm-12 left-padding">
                     <!-- slider widget -->
-                   <div>
+                   <div class="ads-home-page">
                             <!-- widget item -->
                            <?php 
                         
-                           for($i=0;$i<=0;$i++){
+                           for($i=0;$i<=3;$i++){
 
 
                             ?>
@@ -598,8 +598,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                             </div> <!-- / tab item -->
                         </div> <!-- / tab_content -->
                     </div> <!-- / tab -->
-                      <div>
-                            <!-- widget item -->
+                     <!--  <div class="ads-home-page">
+                           
                            <?php 
                            for($i=1;$i<=2;$i++){
 
@@ -620,7 +620,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 </div>
                             <?php } ?>
                         
-                    </div>
+                    </div> -->
 
         </div>
             <!-- side content end -->
@@ -1242,6 +1242,32 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                     <!-- add -->
                     <span class="add-title"> </span>
                     <?php echo @$home_13; ?>
+                </div>
+
+                <!-- ads-->
+                <div class="ads-home-page">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=4;$i<=11;$i++){
+
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['home_'.$i]!=NULL) {
+                                        $srcelem = @$ads['home_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
                 </div>
                  
                 <!-- / tab -->
