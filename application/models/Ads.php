@@ -30,6 +30,7 @@ class Ads extends CI_Model {
                     $i++;
                 }
             }
+            $ads2['homedetailscount'] = $i;
             $i=0;
             foreach ($result as $key => $value) {
 
@@ -45,6 +46,7 @@ class Ads extends CI_Model {
                 } 
                 
             }
+            $ads2['categorydetailscount'] = $i;
             $i=0;
             foreach ($result as $key => $value) {
                 
@@ -62,6 +64,27 @@ class Ads extends CI_Model {
                 
             }
             $ads2['newsdetailscount'] = $i;
+            $i=0;
+
+            foreach ($result as $key => $value) {
+                
+                if ($value->page == 4) {
+
+                    $page = 'google';
+                    $ads[$page . '_' . $value->ad_position] = $value->embed_code;
+                    $ads['lg_status_'. $value->ad_position] = $value->large_status;
+                    $ads['sm_status_'. $value->ad_position] = $value->mobile_status;
+                    $ads2[$page . '_' . $i] = $value->embed_code;
+                    $ads2['lg_status_'. $i] = $value->large_status;
+                    $ads2['sm_status_'. $i] = $value->mobile_status;
+
+                    $i++;
+                    
+                }
+                
+            }
+            $ads2['googledetailscount'] = $i;
+
             return $ads2;
         } else {
             return false;

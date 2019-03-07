@@ -690,7 +690,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <!-- widget item -->
                        <?php 
                     
-                       for($i=3;$i<=3;$i++){
+                       for($i=0;$i<=0;$i++){
 
 
                         ?>
@@ -698,8 +698,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
-                                        $srcelem = @$ads['home_'.$i];
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
                                     ?>
@@ -1026,10 +1026,10 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                     </div>
 
                     <div class="horizontal-banner">
-                        <!-- widget item -->
+                      
                        <?php 
                     
-                       for($i=4;$i<=4;$i++){
+                       for($i=1;$i<=1;$i++){
 
 
                         ?>
@@ -1037,8 +1037,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
-                                        $srcelem = @$ads['home_'.$i];
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
                                     ?>
