@@ -4949,7 +4949,11 @@ footer {
     .desktop-home-ads{
         display: none;
     }
-
+    .ad-item {
+        max-width: 300px !important;
+        margin: 0 auto;
+        text-align: center;
+    }
     .navbar-nav > li > a {
         letter-spacing: 0.4px;
         padding: 6px;
