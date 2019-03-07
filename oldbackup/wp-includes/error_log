@@ -1,0 +1,1 @@
+[20-Nov-2018 04:00:38 Etc/GMT] PHP Fatal error:  Call to undefined function is_robots() in /home2/yugantarpravah/public_html/wp-includes/template-loader.php on line 28

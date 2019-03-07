@@ -1,0 +1,116 @@
+/*Front End styles*/
+.wcss-social-sharing,
+.wcss-featured-image-wrap{
+    clear: both;
+}
+.wcss-content ul {
+    padding: 0;
+    list-style: none;
+}
+.wcss-content ul li{
+    display: inline-block;
+    margin: 0 7px 7px 0;
+}
+
+/* Social Share Buttons */
+.wcss-content a.wcss-share-btn{
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border: 0;
+    box-shadow: none;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-size: 18px;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+.wcss-content a.wcss-share-btn:hover,
+.wcss-content a.wcss-share-btn:focus{
+    box-shadow: none;
+    color: #fff;
+    text-decoration: none;
+    outline: 0;
+}
+.wcss-content a.wcss-share-btn.wcss-small{
+    font-size: 14px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+}
+.wcss-content a.wcss-share-btn.wcss-large{
+    font-size: 21px;
+    line-height: 50px;
+    width: 50px;
+    height: 50px;
+}
+
+/* Social Buttons Colors*/
+.wcss-facebook a.wcss-share-btn{
+    background: #3b5998;
+}
+.wcss-twitter a.wcss-share-btn{
+    background: #00acee;
+}
+.wcss-pinterest a.wcss-share-btn{
+    background: #C92228;
+}
+.wcss-google a.wcss-share-btn{
+    background: #dd4b39;
+}
+.wcss-linkedin a.wcss-share-btn{
+    background: #0077b5;
+}
+.wcss-whatsapp a.wcss-share-btn{
+    background: #43d854;
+}
+
+/*Sharing Icons Floated in the Left*/
+.wcss-social-sharing.wcss-fixed-content {
+    position: fixed;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    z-index: 999;
+}
+.wcss-social-sharing.wcss-fixed-content .wcss-title{
+    display: none;
+    visibility: hidden;
+}
+.wcss-fixed-content .wcss-content ul li{
+    display: block;
+    margin: 0;
+}
+.wcss-fixed-content a.wcss-share-btn{
+    border-radius: 0;
+    -webkit-border-radius: 0;
+}
+
+/*Sharing icons in Featured Images*/
+.wcss-featured-image-wrap{
+    position: relative;
+}
+.wcss-featured-image-wrap .wcss-social-sharing{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in;
+}
+.wcss-featured-image-wrap:hover .wcss-social-sharing{
+    opacity: 1;
+}
+
+
+/* Show whatsapp only in mobile */
+.wcss-social-sharing .wcss-content .wcss-whatsapp{
+    display: none;
+}
+.wcc-onmobile .wcss-social-sharing .wcss-content .wcss-whatsapp{
+    display: inline-block;
+}

@@ -1,0 +1,6 @@
+[16-Oct-2016 02:47:09 America/Denver] PHP Fatal error:  Call to a member function num_rows() on array in /home/demohospitalbdta/public_html/application/models/AuthModel.php on line 32
+[29-Nov-2018 18:24:43 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home2/yugantarpravah/public_html/application/views/themes/News365-Video/view_contact.php on line 19
+[29-Nov-2018 21:52:55 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home2/yugantarpravah/public_html/application/views/themes/News365-Video/view_subscription.php on line 27
+[01-Dec-2018 09:47:13 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home2/yugantarpravah/public_html/application/views/themes/News365-Video/view_subscription.php on line 27
+[01-Dec-2018 09:47:22 Asia/Dhaka] PHP Fatal error:  Can't use function return value in write context in /home2/yugantarpravah/public_html/application/views/themes/News365-Video/view_subscription.php on line 27
+[11-Jan-2019 15:45:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home2/yugantarpravah/public_html/application/controllers/admin/News_edit.php on line 288
