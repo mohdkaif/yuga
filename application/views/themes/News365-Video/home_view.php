@@ -475,7 +475,30 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         </div>
                     </div>
                     <!-- /.row -->
+                    <div class="horizontal-banner">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=0;$i<=0;$i++){
 
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
+                    </div>
 
                      
 
@@ -690,7 +713,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <!-- widget item -->
                        <?php 
                     
-                       for($i=0;$i<=0;$i++){
+                       for($i=1;$i<=1;$i++){
 
 
                         ?>
@@ -757,9 +780,9 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
             </div>
             <div class="col-md-12 col-sm-12">
                 <!-- video -->
-                <?php if(@$home_page_positions[7]['status']==1){ 
+               <!--  <?php if(@$home_page_positions[7]['status']==1){ 
                     //print_r($pn['position_7']);die();
-                ?>
+                ?> -->
                     <!-- video -->
                     <div class="video-headding"><?php echo display('video_striming')?></div>
                     <div class="contentSlide">
@@ -833,7 +856,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                             </div>
                         </div>
                     </div>
-                     <?php } ?>
+                     <!-- <?php } ?> -->
                 <!-- /.video -->
             </div>
             </div>
@@ -1026,10 +1049,10 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                     </div>
 
                     <div class="horizontal-banner">
-                      
+                     
                        <?php 
                     
-                       for($i=1;$i<=1;$i++){
+                       for($i=2;$i<=2;$i++){
 
 
                         ?>
@@ -1224,6 +1247,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
 
 
                         ?>
+
                     <!-- technology Area
                         ============================================ -->
                     <section class="politics_wrapper">
@@ -1388,6 +1412,28 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                         </div>
                                     </div>
                                 </div>
+                            </div>
+
+                            <div class="horizontal-banner">
+                     
+                                <?php 
+                            
+                               for($i=3;$i<=3;$i++){
+
+
+                                ?>
+                                    <div class="ad-item">
+                                        
+                                        <?php
+                                        
+                                            if (@$ads['google_'.$i]!=NULL) {
+                                                $srcelem = @$ads['google_'.$i];
+                                                  echo $srcelem;
+                                                } 
+                                            ?>
+                                    </div>
+                                <?php } ?>
+                            
                             </div>
                         </div>
                         <!-- /.row -->
