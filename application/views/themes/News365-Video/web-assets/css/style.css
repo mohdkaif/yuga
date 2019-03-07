@@ -2068,7 +2068,12 @@ input[type='radio']:checked:before {
 
 /*** Video Post
 -------------------------------------------*/
-
+.mobile-ads{
+    display: none;
+}
+.desktop-ads{
+    display: block;
+}
 .video-post-inner {
     background-color: #f5f5f5;
     padding: 50px 0 20px;
@@ -5066,7 +5071,13 @@ footer {
     .cross-btn:before {
         content: "\f00d";
     }
-
+    .mobile-ads{
+        margin-top: 20px;
+        display: block;
+    }
+    .desktop-ads{
+        display: none;
+    }
 
     .social_media_icons .custom-search-form .form-control{
        width: 0;
