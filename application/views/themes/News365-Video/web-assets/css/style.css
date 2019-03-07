@@ -4947,7 +4947,7 @@ footer {
         display: block;
     }
     .desktop-home-ads{
-        /*display: none;*/
+        display: none;
     }
 
     .navbar-nav > li > a {
