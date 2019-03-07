@@ -679,7 +679,7 @@
             </article>
         </div>
 
-        <div class="col-md-4 col-sm-12 left-padding">
+        <div class="col-md-4 col-sm-4 col-sm-12 left-padding">
             <aside class="sidebar">
                 <div class="ads-detail-page desktop-ads">
                             <!-- widget item -->
