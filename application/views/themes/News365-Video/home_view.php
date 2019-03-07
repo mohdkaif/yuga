@@ -496,7 +496,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
             <!-- /.left content inner -->
          <div class="col-md-4 col-sm-12 left-padding-20">
                     <!-- slider widget -->
-                   <div class="ads-home-page">
+                   <div class="ads-home-page desktop-home-ads">
                             <!-- widget item -->
                            <?php 
                         
@@ -1418,7 +1418,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                 </div>
 
                 <!-- ads-->
-                <div class="ads-home-page">
+                <div class="ads-home-page desktop-home-ads">
                         <!-- widget item -->
                        <?php 
                     
@@ -1442,6 +1442,32 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <?php } ?>
                     
                 </div>
+                <!-- mobile ads-->
+                 <div class="ads-home-page mobile-ads-home">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=0;$i<=11;$i++){
+
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['home_'.$i]!=NULL) {
+                                        $srcelem = @$ads['home_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
+                </div>
+
                  
                 <!-- / tab -->
             </div>
