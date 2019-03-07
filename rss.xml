@@ -2,27 +2,70 @@
 xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>YugantarPravah RSS Feed RSS</title>
-<link>https://www.yugantarpravah.com/</link>
+<link>http://localhost/yuga/</link>
 <description>Read our awesome news, every day</description>
-<lastBuildDate>05-03-2019</lastBuildDate>
+<lastBuildDate>07-03-2019</lastBuildDate>
 <image>
                     <title>YugantarPravahRSS Feed</title>
-                    <url>https://www.yugantarpravah.com/uploads/images/logo.jpg white</url>
-                    <link>https://www.yugantarpravah.com/</link>
+                    <url>http://localhost/yuga/uploads/images/logo.jpg white</url>
+                    <link>http://localhost/yuga/</link>
                 </image>
 
                 <item>
+                    <title>asdc</title>
+                            <link>http://localhost/yuga/World/details/389/asdc</link>
+                    <pubDate>Thursday, 07 Mar, 2019</pubDate>  
+                    <author>युगान्तर प्रवाह संवाददाता</author>     
+                    <description>asxdcsazsxdcxsasdcsasdcsasdcsaASD
+</description>
+                    <image>
+                        <url>http://localhost/yuga/uploads/1551953392.png</url>
+                        <title>asdc</title>
+                        <link>http://localhost/yuga/World/details/389/asdc</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/389/asdc</guid>
+                    <category><![CDATA[World]]></category>
+
+                    <content:encoded>
+                    <![CDATA[
+                        <!doctype html>
+                        <html lang="en" prefix="op: http://media.facebook.com/op#">
+                          <head>
+                            <meta charset="utf-8">
+                            <link rel="canonical" href=http://localhost/yuga/World/details/389/asdc>
+                            <meta property="op:markup_version" content="v1.0">
+                          </head>
+                          <body>
+                            <article>
+                              <header>
+                                <!— Article header goes here -->
+                              </header>
+
+                                <p>asxdcsazsxdcxsasdcsasdcsasdcsaASD
+</p>
+
+                              <footer>
+                                <!— Article footer goes here -->
+                              </footer>
+                            </article>
+                          </body>
+                        </html>
+                        ]]>
+                   </content:encoded>
+                </item>
+
+                <item>
                     <title>फतेहपुर:दुःसाहस-गौवंश को गाड़ी में बांध घण्टो सड़क पर घसीटते रहे NHAI के कमर्चारी!</title>
-                            <link>https://www.yugantarpravah.com/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</link>
+                            <link>http://localhost/yuga/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</link>
                     <pubDate>Tuesday, 05 Mar, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: यूपी की सत्ता में काबिज़ होने के बाद योगी सरकार ने जिस तरह से गौवंस की सुरक्षा के लिए पूरे प्रदेश में सख्ती बरती थी उसका असर शायद फतेहपुर में</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551802043.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551802043.jpg</url>
                         <title>फतेहपुर:दुःसाहस-गौवंश को गाड़ी में बांध घण्टो सड़क पर घसीटते रहे NHAI के कमर्चारी!</title>
-                        <link>https://www.yugantarpravah.com/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</link>
+                        <link>http://localhost/yuga/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!</guid>
                     <category><![CDATA[crime]]></category>
 
                     <content:encoded>
@@ -31,7 +74,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!>
+                            <link rel="canonical" href=http://localhost/yuga/crime/details/388/फतेहपुर-दुःसाहस-गौवंश-को-गाड़ी-में-बांध-घण्टो-सड़क-पर-घसीटते-रहे-NHAI-के-कमर्चारी!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -54,16 +97,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:भाजपा में टिकट को लेकर जंग तेज..विक्रम सिंह की दावेदारी से खलबली!</title>
-                            <link>https://www.yugantarpravah.com/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</link>
+                            <link>http://localhost/yuga/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</link>
                     <pubDate>Tuesday, 05 Mar, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: लोकसभा चुनाव को लेकर इस वक़्त सारी पार्टियों के अंदर टिकटों को लेकर घमासान शुरू हो चुका है जिसके चलते पार्टी के शीर्ष नेतृत्व को खासी माथापच्ची करनी पड़</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551780230.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551780230.jpg</url>
                         <title>फतेहपुर:भाजपा में टिकट को लेकर जंग तेज..विक्रम सिंह की दावेदारी से खलबली!</title>
-                        <link>https://www.yugantarpravah.com/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</link>
+                        <link>http://localhost/yuga/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!</guid>
                     <category><![CDATA[Editor-Choice]]></category>
 
                     <content:encoded>
@@ -72,7 +115,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!>
+                            <link rel="canonical" href=http://localhost/yuga/Editor-Choice/details/387/फतेहपुर-भाजपा-में-टिकट-को-लेकर-जंग-तेज-विक्रम-सिंह-की-दावेदारी-से-खलबली!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -95,16 +138,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>महाशिवरात्रि पर बन रहा है दुर्लभ संयोग.. इस विधि विधान से करें पूजा तो होगा लाभ!</title>
-                            <link>https://www.yugantarpravah.com/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</link>
+                            <link>http://localhost/yuga/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</link>
                     <pubDate>Sunday, 03 Mar, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: इस बार का महाशिवरात्रि कई मायनों में बेहद खास होने वाला है।सबसे बड़ी बात ये है कि भगवान शिव की अराधना के लिए सबसे उपयुक्त दिन सोमवार को माना</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551610222.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551610222.jpg</url>
                         <title>महाशिवरात्रि पर बन रहा है दुर्लभ संयोग.. इस विधि विधान से करें पूजा तो होगा लाभ!</title>
-                        <link>https://www.yugantarpravah.com/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</link>
+                        <link>http://localhost/yuga/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!</guid>
                     <category><![CDATA[astronomy]]></category>
 
                     <content:encoded>
@@ -113,7 +156,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!>
+                            <link rel="canonical" href=http://localhost/yuga/astronomy/details/386/महाशिवरात्रि-पर-बन-रहा-है-दुर्लभ-संयोग-इस-विधि-विधान-से-करें-पूजा-तो-होगा-लाभ!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -136,16 +179,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:अटकलों को विराम..टिकट के आश्वासन के बाद कांग्रेसी हुए सचान..!</title>
-                            <link>https://www.yugantarpravah.com/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</link>
+                            <link>http://localhost/yuga/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</link>
                     <pubDate>Saturday, 02 Mar, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: टिकट न मिलने से पार्टी नेतृत्व से नाराज़ चल रहे सपा के कद्दावर नेता राकेश सचान ने आखिरकार दिल्ली में कांग्रेस के राष्ट्रीय कार्यालय में पार्टी अध्यक्ष राहुल गांधी, महासचिव</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551543580.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551543580.jpg</url>
                         <title>फतेहपुर:अटकलों को विराम..टिकट के आश्वासन के बाद कांग्रेसी हुए सचान..!</title>
-                        <link>https://www.yugantarpravah.com/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</link>
+                        <link>http://localhost/yuga/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!</guid>
                     <category><![CDATA[politics]]></category>
 
                     <content:encoded>
@@ -154,7 +197,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!>
+                            <link rel="canonical" href=http://localhost/yuga/politics/details/385/फतेहपुर-अटकलों-को-विराम-टिकट-के-आश्वासन-के-बाद-कांग्रेसी-हुए-सचान-!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -177,16 +220,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>बड़ी खबर-विंग कमांडर अभिनंदन को लेकर आई खुशखबरी..कल लौटेंगे भारत।</title>
-                            <link>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
+                            <link>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
                     <pubDate>Thursday, 28 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>नई दिल्ली: आखिरकार भारत के दबाव के आगे पाकिस्तान ने घुटने टेक दिए।पाकिस्तान के कब्ज़े में रहे विंग कमांडर अभिनंदन को छोड़ने का ऐलान पाकिस्तान के प्रधानमंत्री इमरान खान ने खुद</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551358485.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551358485.jpg</url>
                         <title>बड़ी खबर-विंग कमांडर अभिनंदन को लेकर आई खुशखबरी..कल लौटेंगे भारत।</title>
-                        <link>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
+                        <link>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</guid>
                     <category><![CDATA[World]]></category>
 
                     <content:encoded>
@@ -195,7 +238,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।>
+                            <link rel="canonical" href=http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -218,16 +261,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:योगी दौरा-मेडिकल कॉलेज का शिलान्यास सहित क़रीब सवा तीन सौ करोड़ की जिले को सौगात..!</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</link>
                     <pubDate>Wednesday, 27 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: लोकसभा चुनावों की अधिसूचना जारी होने के ठीक पहले फतेहपुर में प्रस्तावित मेडिकल कॉलेज का शिलान्यास सूबे के मुखिया योगी आदित्यनाथ ने मंगलवार को फ़तेहपुर पहुंच कर दिया।इसके साथ साथ</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551273670.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551273670.jpg</url>
                         <title>फतेहपुर:योगी दौरा-मेडिकल कॉलेज का शिलान्यास सहित क़रीब सवा तीन सौ करोड़ की जिले को सौगात..!</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -236,7 +279,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/383/फतेहपुर-योगी-दौरा-मेडिकल-कॉलेज-का-शिलान्यास-सहित-क़रीब-सवा-तीन-सौ-करोड़-की-जिले-को-सौगात-!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -259,16 +302,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फ़तेहपुर:बागी हुए सचान,कांग्रेस के टिकट पर चुनावी समर में कूदने की तैयारी!</title>
-                            <link>https://www.yugantarpravah.com/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</link>
+                            <link>http://localhost/yuga/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</link>
                     <pubDate>Monday, 25 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: सपा बसपा गठबंधन होने के बाद से दोनों पार्टियों में बगावत का दौर शुरू हो चुका है,सपा के कद्दावर नेता पूर्व सांसद राकेस सचान टिकट न मिलने से नाराज़</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551084994.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551084994.jpg</url>
                         <title>फ़तेहपुर:बागी हुए सचान,कांग्रेस के टिकट पर चुनावी समर में कूदने की तैयारी!</title>
-                        <link>https://www.yugantarpravah.com/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</link>
+                        <link>http://localhost/yuga/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!</guid>
                     <category><![CDATA[politics]]></category>
 
                     <content:encoded>
@@ -277,7 +320,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!>
+                            <link rel="canonical" href=http://localhost/yuga/politics/details/382/फ़तेहपुर-बागी-हुए-सचान-कांग्रेस-के-टिकट-पर-चुनावी-समर-में-कूदने-की-तैयारी!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -300,16 +343,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फ़तेहपुर:सुखदेव के हांथ में गठबंधन की कमान..हुआ औपचारिक ऐलान।</title>
-                            <link>https://www.yugantarpravah.com/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</link>
+                            <link>http://localhost/yuga/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</link>
                     <pubDate>Sunday, 24 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: सपा बसपा गठबंधन होने से एक ओर जहां निचले स्तर पर दोनों पार्टियों के कार्यकर्ताओं में जोश है वहीं दूसरी ओर चुनाव की तैयारी में लगे सपा बसपा के उम्मीदवारों</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551027785.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551027785.jpg</url>
                         <title>फ़तेहपुर:सुखदेव के हांथ में गठबंधन की कमान..हुआ औपचारिक ऐलान।</title>
-                        <link>https://www.yugantarpravah.com/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</link>
+                        <link>http://localhost/yuga/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।</guid>
                     <category><![CDATA[politics]]></category>
 
                     <content:encoded>
@@ -318,7 +361,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।>
+                            <link rel="canonical" href=http://localhost/yuga/politics/details/381/फ़तेहपुर-सुखदेव-के-हांथ-में-गठबंधन-की-कमान-हुआ-औपचारिक-ऐलान।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -341,16 +384,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>चित्रकूट के चर्चित जुड़वा बच्चों की अपहरण के बाद हुई हत्या..गुस्साए लोंगो ने शुरू किया हंगामा।</title>
-                            <link>https://www.yugantarpravah.com/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</link>
+                            <link>http://localhost/yuga/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</link>
                     <pubDate>Sunday, 24 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>चित्रकूट: बहुचर्चित तेल व्यवसायी के जुड़वां बच्चों के अपहरण कांड में आज सुबह अत्यंत दर्दनाक खबर सामने आई,घटना में अपहृत हुए दोनों  बच्चों प्रेयांश व श्रेयांश के शव आज बाँदा जिले</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551001474.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551001474.jpg</url>
                         <title>चित्रकूट के चर्चित जुड़वा बच्चों की अपहरण के बाद हुई हत्या..गुस्साए लोंगो ने शुरू किया हंगामा।</title>
-                        <link>https://www.yugantarpravah.com/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</link>
+                        <link>http://localhost/yuga/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।</guid>
                     <category><![CDATA[crime]]></category>
 
                     <content:encoded>
@@ -359,7 +402,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।>
+                            <link rel="canonical" href=http://localhost/yuga/crime/details/380/चित्रकूट-के-चर्चित-जुड़वा-बच्चों-की-अपहरण-के-बाद-हुई-हत्या-गुस्साए-लोंगो-ने-शुरू-किया-हंगामा।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -382,16 +425,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>यूपी:गोरखपुर में पीएम लांच करेंगे 'प्रधानमंत्री किसान सम्मान निधि' योजना!पहले चरण में एक करोड़ किसानों को लाभ।</title>
-                            <link>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
+                            <link>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
                     <pubDate>Sunday, 24 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>लखनऊ: प्रधानमंत्री नरेंद्र मोदी रविवार को उत्तर प्रदेश के गोरखपुर में &amp;#39;प्रधानमंत्री किसान सम्मान निधि&amp;#39; (पीएम-किसान) योजना को लॉन्च करेंगे। 75 हजार करोड़ रुपये की इस योजना के पहले चरण में</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550989861.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550989861.jpg</url>
                         <title>यूपी:गोरखपुर में पीएम लांच करेंगे 'प्रधानमंत्री किसान सम्मान निधि' योजना!पहले चरण में एक करोड़ किसानों को लाभ।</title>
-                        <link>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
+                        <link>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</guid>
                     <category><![CDATA[national]]></category>
 
                     <content:encoded>
@@ -400,7 +443,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।>
+                            <link rel="canonical" href=http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -423,16 +466,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फ़तेहपुर:गंगा स्नान करने जा रहे पति-पत्नी की सड़क हादसे में मौत-कई घायल।</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</link>
                     <pubDate>Saturday, 23 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: जीवन और मृत्यु एक अटल सत्य है कहते हैं ईश्वर के लिखे विधि विधान को कोई नहीं मिटा सकता क्योंकि इंसान की सोच विधाता की परिकल्पना से परे है। ऐसी</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550930450.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550930450.jpg</url>
                         <title>फ़तेहपुर:गंगा स्नान करने जा रहे पति-पत्नी की सड़क हादसे में मौत-कई घायल।</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -441,7 +484,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/378/फ़तेहपुर-गंगा-स्नान-करने-जा-रहे-पति-पत्नी-की-सड़क-हादसे-में-मौत-कई-घायल।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -464,16 +507,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:सेना को है खुली छूट जैसे चाहें वैसे ले पाक से बदला-साध्वी निरंजन ज्योति।</title>
-                            <link>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
+                            <link>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
                     <pubDate>Thursday, 21 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: पुलवामा में हुए आतंकी हमले के बाद से पूरे देश मे एक स्वर से पाकिस्तान से बदला लेने की मांग तेज हो चली है।लोग सरकार से मांग कर रहे हैं</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550753335.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550753335.jpg</url>
                         <title>फतेहपुर:सेना को है खुली छूट जैसे चाहें वैसे ले पाक से बदला-साध्वी निरंजन ज्योति।</title>
-                        <link>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
+                        <link>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</guid>
                     <category><![CDATA[national]]></category>
 
                     <content:encoded>
@@ -482,7 +525,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।>
+                            <link rel="canonical" href=http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -505,16 +548,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>कानपुर:कालिंदी एक्सप्रेस ट्रेन में धमाका..मची अफ़रा तफ़री!</title>
-                            <link>https://www.yugantarpravah.com/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</link>
+                            <link>http://localhost/yuga/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</link>
                     <pubDate>Thursday, 21 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>कानपुर: देश मे बढ़ रही आतंकवादी घटनाओं को लेकर हर कोई परेशान व क्रोधित है।लेक़िन हाल फिलहाल के दिनों में जिस तरह देश मे आतंकवादी गतिविधियों में तेजी आई है वह</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550691953.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550691953.jpg</url>
                         <title>कानपुर:कालिंदी एक्सप्रेस ट्रेन में धमाका..मची अफ़रा तफ़री!</title>
-                        <link>https://www.yugantarpravah.com/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</link>
+                        <link>http://localhost/yuga/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!</guid>
                     <category><![CDATA[crime]]></category>
 
                     <content:encoded>
@@ -523,7 +566,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!>
+                            <link rel="canonical" href=http://localhost/yuga/crime/details/375/कानपुर-कालिंदी-एक्सप्रेस-ट्रेन-में-धमाका-मची-अफ़रा-तफ़री!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -546,16 +589,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:योगी के आगमन को लेकर तैयारियां जोरों पर..लेक़िन संशय बरकरार..!</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</link>
                     <pubDate>Wednesday, 20 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ जिले में आने वाले हैं मौका है मेडिकल कॉलेज के शिलान्यास का बताया जा रहा है सत्ताईस फरवरी को उनका दौरा प्रस्तावित है।जिसको लेकर</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550680756.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550680756.jpg</url>
                         <title>फतेहपुर:योगी के आगमन को लेकर तैयारियां जोरों पर..लेक़िन संशय बरकरार..!</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -564,7 +607,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/374/फतेहपुर-योगी-के-आगमन-को-लेकर-तैयारियां-जोरों-पर-लेक़िन-संशय-बरकरार-!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -587,16 +630,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title> देश भर में आज शाम बन्द रहेंगे पेट्रोल पम्प.. जान ले क्या है वजह.?</title>
-                            <link>https://www.yugantarpravah.com/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</link>
+                            <link>http://localhost/yuga/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</link>
                     <pubDate>Wednesday, 20 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>नई दिल्ली: पुलवामा आतंकी हमले का गुस्सा अभी भी देश के दिल मे धधक रहा है,हर रोज देश भर में लोग सड़कों पर उतरकर आतंकी हमले में शहीद हुए सैनिकों के</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550650289.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550650289.jpg</url>
                         <title> देश भर में आज शाम बन्द रहेंगे पेट्रोल पम्प.. जान ले क्या है वजह.?</title>
-                        <link>https://www.yugantarpravah.com/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</link>
+                        <link>http://localhost/yuga/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?</guid>
                     <category><![CDATA[business]]></category>
 
                     <content:encoded>
@@ -605,7 +648,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?>
+                            <link rel="canonical" href=http://localhost/yuga/business/details/373/देश-भर-में-आज-शाम-बन्द-रहेंगे-पेट्रोल-पम्प-जान-ले-क्या-है-वजह-?>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -628,16 +671,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>केंद्रीय कर्मचारियों को मोदी सरकार का चुनावी तोहफ़ा,महंगाई भत्ते में हुई बढ़ोत्तरी!</title>
-                            <link>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
+                            <link>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
                     <pubDate>Wednesday, 20 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>नई दिल्ली: मोदी सरकार ने सरकारी कर्मचारियों को चुनावी तोहफा देते हुए महंगाई भत्ते को बढ़ा दिया है,भत्ते को 9 फीसदी से बढ़ा कर 12 फ़ीसदी करने का निर्णय केंद्र सरकार</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550637632.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550637632.jpg</url>
                         <title>केंद्रीय कर्मचारियों को मोदी सरकार का चुनावी तोहफ़ा,महंगाई भत्ते में हुई बढ़ोत्तरी!</title>
-                        <link>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
+                        <link>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</guid>
                     <category><![CDATA[national]]></category>
 
                     <content:encoded>
@@ -646,7 +689,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!>
+                            <link rel="canonical" href=http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -669,16 +712,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:महिलाओं के प्रति बढ़ रहे अपराध को रोकना होगी पहली प्राथमिकता-एसपी।</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</link>
                     <pubDate>Tuesday, 19 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: जनपद में महिलाओं के प्रति बढ़ रहे अपराध औऱ लाइन आर्डर की समस्या के प्रति नवांगत एसपी कैलाश सिंह गम्भीर दिखे।मंगलवार को बतौर पुलिस अधीक्षक का चार्ज लेने के बाद</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550574992.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550574992.jpg</url>
                         <title>फतेहपुर:महिलाओं के प्रति बढ़ रहे अपराध को रोकना होगी पहली प्राथमिकता-एसपी।</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -687,7 +730,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/371/फतेहपुर-महिलाओं-के-प्रति-बढ़-रहे-अपराध-को-रोकना-होगी-पहली-प्राथमिकता-एसपी।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -710,18 +753,18 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:आईएएस संजीव सिंह ने जिलाधिकारी के रूप में ग्रहण किया कार्यभार-ली कर्तव्यनिष्ठा की शपथ..!</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</link>
                     <pubDate>Monday, 18 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर:सोमवार को जिलाधिकारी के पद पर कार्यभार ग्रहण करने फतेहपुर पहुंचे संजीव सिंह को सबसे पहले कलक्ट्रेट में गॉड ऑफ ऑनर दिया गया।इसके उपरांत कोषागार पहुंच कार्यभार ग्रहण किया।
 
 कलक्ट्रेट के</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550514180.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550514180.jpg</url>
                         <title>फतेहपुर:आईएएस संजीव सिंह ने जिलाधिकारी के रूप में ग्रहण किया कार्यभार-ली कर्तव्यनिष्ठा की शपथ..!</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -730,7 +773,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/370/फतेहपुर-आईएएस-संजीव-सिंह-ने-जिलाधिकारी-के-रूप-में-ग्रहण-किया-कार्यभार-ली-कर्तव्यनिष्ठा-की-शपथ-!>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -755,16 +798,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
                 <item>
                     <title>फतेहपुर:पुलवामा हमले में शहीद सैनिकों को युवाओं ने दी श्रद्धांजलि-लगे सिद्धू मुर्दाबाद के नारे।</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</link>
+                            <link>http://localhost/yuga/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</link>
                     <pubDate>Sunday, 17 Feb, 2019</pubDate>  
                     <author>युगान्तर प्रवाह संवाददाता</author>     
                     <description>फ़तेहपुर: बीते गुरुवार को जम्मू कश्मीर के पुलवामा के क़रीब सीआरपीएफ के जवानों से भरी बस में हुए आतंकी हमले के बाद से पूरे देश मे पाकिस्तान के खिलाफ लोग सड़कों</description>
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550424671.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550424671.jpg</url>
                         <title>फतेहपुर:पुलवामा हमले में शहीद सैनिकों को युवाओं ने दी श्रद्धांजलि-लगे सिद्धू मुर्दाबाद के नारे।</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</link>
+                        <link>http://localhost/yuga/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</guid>
+                    <guid isPermaLink='false'>http://localhost/yuga/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।</guid>
                     <category><![CDATA[uttar-pradesh]]></category>
 
                     <content:encoded>
@@ -773,7 +816,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                         <html lang="en" prefix="op: http://media.facebook.com/op#">
                           <head>
                             <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।>
+                            <link rel="canonical" href=http://localhost/yuga/uttar-pradesh/details/369/फतेहपुर-पुलवामा-हमले-में-शहीद-सैनिकों-को-युवाओं-ने-दी-श्रद्धांजलि-लगे-सिद्धू-मुर्दाबाद-के-नारे।>
                             <meta property="op:markup_version" content="v1.0">
                           </head>
                           <body>
@@ -783,47 +826,6 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                               </header>
 
                                 <p>फ़तेहपुर: बीते गुरुवार को जम्मू कश्मीर के पुलवामा के क़रीब सीआरपीएफ के जवानों से भरी बस में हुए आतंकी हमले के बाद से पूरे देश मे पाकिस्तान के खिलाफ लोग सड़कों</p>
-
-                              <footer>
-                                <!— Article footer goes here -->
-                              </footer>
-                            </article>
-                          </body>
-                        </html>
-                        ]]>
-                   </content:encoded>
-                </item>
-
-                <item>
-                    <title>फतेहपुर:जिलाधिकारी के तबादले से जनपदवासियों में मायूसी,भाजपा के खिलाफ सड़क पर उतरने का ऐलान..!</title>
-                            <link>https://www.yugantarpravah.com/uttar-pradesh/details/368/फतेहपुर-जिलाधिकारी-के-तबादले-से-जनपदवासियों-में-मायूसी-भाजपा-के-खिलाफ-सड़क-पर-उतरने-का-ऐलान-!</link>
-                    <pubDate>Saturday, 16 Feb, 2019</pubDate>  
-                    <author>युगान्तर प्रवाह संवाददाता</author>     
-                    <description>फतेहपुर: अपनी नायक वाली छवि से कुछ ही महीनों में फ़तेहपुर की जनता के हीरो बन चुके जिलाधिकारी आञ्जनेय कुमार के तबादले की ख़बर जैसे ही लोगो को पता चली तो</description>
-                    <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550292209.jpg</url>
-                        <title>फतेहपुर:जिलाधिकारी के तबादले से जनपदवासियों में मायूसी,भाजपा के खिलाफ सड़क पर उतरने का ऐलान..!</title>
-                        <link>https://www.yugantarpravah.com/uttar-pradesh/details/368/फतेहपुर-जिलाधिकारी-के-तबादले-से-जनपदवासियों-में-मायूसी-भाजपा-के-खिलाफ-सड़क-पर-उतरने-का-ऐलान-!</link>
-                    </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/uttar-pradesh/details/368/फतेहपुर-जिलाधिकारी-के-तबादले-से-जनपदवासियों-में-मायूसी-भाजपा-के-खिलाफ-सड़क-पर-उतरने-का-ऐलान-!</guid>
-                    <category><![CDATA[uttar-pradesh]]></category>
-
-                    <content:encoded>
-                    <![CDATA[
-                        <!doctype html>
-                        <html lang="en" prefix="op: http://media.facebook.com/op#">
-                          <head>
-                            <meta charset="utf-8">
-                            <link rel="canonical" href=https://www.yugantarpravah.com/uttar-pradesh/details/368/फतेहपुर-जिलाधिकारी-के-तबादले-से-जनपदवासियों-में-मायूसी-भाजपा-के-खिलाफ-सड़क-पर-उतरने-का-ऐलान-!>
-                            <meta property="op:markup_version" content="v1.0">
-                          </head>
-                          <body>
-                            <article>
-                              <header>
-                                <!— Article header goes here -->
-                              </header>
-
-                                <p>फतेहपुर: अपनी नायक वाली छवि से कुछ ही महीनों में फ़तेहपुर की जनता के हीरो बन चुके जिलाधिकारी आञ्जनेय कुमार के तबादले की ख़बर जैसे ही लोगो को पता चली तो</p>
 
                               <footer>
                                 <!— Article footer goes here -->

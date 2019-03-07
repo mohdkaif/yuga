@@ -2,28 +2,47 @@
 <rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <title>YugantarPravah RSS Feed RSS</title>
-<link>https://www.yugantarpravah.com/</link>
+<link>http://localhost/yuga/</link>
 <description></description>
 <image>
                     <title>YugantarPravahRSS Feed</title>
-                    <url>https://www.yugantarpravah.com/uploads/images/logo.jpg white</url>
-                    <link>https://www.yugantarpravah.com/</link>
+                    <url>http://localhost/yuga/uploads/images/logo.jpg white</url>
+                    <link>http://localhost/yuga/</link>
               </image>
+                <item>
+                    <news_id>389</news_id>
+                    <category>World</category>
+                    <title>asdc</title>
+                    <link>http://localhost/yuga/World/details/389/asdc</link>
+                    <description>asxdcsazsxdcxsasdcsasdcsasdcsaASD
+</description>
+                    <pubDate>2019-03-07</pubDate>       
+                    <image>
+                        <url>http://localhost/yuga/uploads/1551953392.png</url>
+                        <title>asdc</title>
+                        <link>http://localhost/yuga/World/details/389/asdc</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/389/asdc</guid>
+                    <image>http://localhost/yuga/uploads/1551953392.png</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1551953392.png</thumb>
+                    
+                </item>
+
                 <item>
                     <news_id>384</news_id>
                     <category>World</category>
                     <title>बड़ी खबर-विंग कमांडर अभिनंदन को लेकर आई खुशखबरी..कल लौटेंगे भारत।</title>
-                    <link>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
+                    <link>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
                     <description>नई दिल्ली: आखिरकार भारत के दबाव के आगे पाकिस्तान ने घुटने टेक दिए।पाकिस्तान के कब्ज़े में रहे विंग कमांडर अभिनंदन को छोड़ने का ऐलान पाकिस्तान के प्रधानमंत्री इमरान खान ने खुद</description>
                     <pubDate>2019-02-28</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1551358485.jpg</url>
+                        <url>http://localhost/yuga/uploads/1551358485.jpg</url>
                         <title>बड़ी खबर-विंग कमांडर अभिनंदन को लेकर आई खुशखबरी..कल लौटेंगे भारत।</title>
-                        <link>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
+                        <link>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1551358485.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1551358485.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/384/बड़ी-खबर-विंग-कमांडर-अभिनंदन-को-लेकर-आई-खुशखबरी-कल-लौटेंगे-भारत।</guid>
+                    <image>http://localhost/yuga/uploads/1551358485.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1551358485.jpg</thumb>
                     
                 </item>
 
@@ -31,17 +50,17 @@
                     <news_id>365</news_id>
                     <category>World</category>
                     <title>बॉर्डर पर जंग शुरू.!पाकिस्तान की तरफ़ से शुरू हुई अंधाधुंध फायरिंग का भारत दे रहा मुंहतोड़ जवाब..!</title>
-                    <link>https://www.yugantarpravah.com/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</link>
+                    <link>http://localhost/yuga/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</link>
                     <description>जम्मू कश्मीर: पुलवामा में हुए आतंकी हमले से पूरे देश मे पाकिस्तान के खिलाफ लोगों का गुस्सा शुक्रवार को सड़कों पर दिखा।वहीं दूसरी ओर लगातार पाकिस्तान अपनी हरकतों से बाज</description>
                     <pubDate>2019-02-15</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550241250.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550241250.jpg</url>
                         <title>बॉर्डर पर जंग शुरू.!पाकिस्तान की तरफ़ से शुरू हुई अंधाधुंध फायरिंग का भारत दे रहा मुंहतोड़ जवाब..!</title>
-                        <link>https://www.yugantarpravah.com/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</link>
+                        <link>http://localhost/yuga/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550241250.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550241250.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/365/बॉर्डर-पर-जंग-शुरू-!पाकिस्तान-की-तरफ़-से-शुरू-हुई-अंधाधुंध-फायरिंग-का-भारत-दे-रहा-मुंहतोड़-जवाब-!</guid>
+                    <image>http://localhost/yuga/uploads/1550241250.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550241250.jpg</thumb>
                     
                 </item>
 
@@ -49,17 +68,17 @@
                     <news_id>362</news_id>
                     <category>World</category>
                     <title>जम्मू कश्मीर:आतंकी हमले में सेना के 42 जवान शहीद लगे पाकिस्तान मुर्दाबाद के नारे।</title>
-                    <link>https://www.yugantarpravah.com/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</link>
+                    <link>http://localhost/yuga/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</link>
                     <description>जम्मू कश्मीर: पुलवामा जिले के निकट गुरुवार दोपहर साढ़े तीन बजे हुए आतंकी हमले में बड़ी संख्या में सीआरपीएफ के जवान शहीद हो गए हैं ताजा जानकारी मिलते तक शहीद जवानों</description>
                     <pubDate>2019-02-14</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550160419.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550160419.jpg</url>
                         <title>जम्मू कश्मीर:आतंकी हमले में सेना के 42 जवान शहीद लगे पाकिस्तान मुर्दाबाद के नारे।</title>
-                        <link>https://www.yugantarpravah.com/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</link>
+                        <link>http://localhost/yuga/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550160419.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550160419.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/362/जम्मू-कश्मीर-आतंकी-हमले-में-सेना-के-जवान-शहीद-लगे-पाकिस्तान-मुर्दाबाद-के-नारे।</guid>
+                    <image>http://localhost/yuga/uploads/1550160419.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550160419.jpg</thumb>
                     
                 </item>
 
@@ -67,17 +86,17 @@
                     <news_id>234</news_id>
                     <category>World</category>
                     <title>इंडोनेशिया:ज्वालामुखी फ़टने से आई सुनामी में मरने वालों की संख्या 400 के पार..सैकड़ो अभी भी लापता..!</title>
-                    <link>https://www.yugantarpravah.com/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</link>
+                    <link>http://localhost/yuga/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</link>
                     <description>युगान्तर प्रवाह डेस्क :  क़ुदरत का कहर इंडोनेशिया में  इस कदर बरपा की पूरी दुनियां सिहर उठी ज्वालामुखी फ़टने से आई सुनामी से इंडोनेशिया में चारो तरफ़ चीख़ पुकार मची हुई</description>
                     <pubDate>2018-12-25</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1545733600.jpg</url>
+                        <url>http://localhost/yuga/uploads/1545733600.jpg</url>
                         <title>इंडोनेशिया:ज्वालामुखी फ़टने से आई सुनामी में मरने वालों की संख्या 400 के पार..सैकड़ो अभी भी लापता..!</title>
-                        <link>https://www.yugantarpravah.com/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</link>
+                        <link>http://localhost/yuga/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1545733600.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1545733600.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/234/इंडोनेशिया-ज्वालामुखी-फ़टने-से-आई-सुनामी-में-मरने-वालों-की-संख्या-के-पार-सैकड़ो-अभी-भी-लापता-!</guid>
+                    <image>http://localhost/yuga/uploads/1545733600.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1545733600.jpg</thumb>
                     
                 </item>
 
@@ -85,19 +104,19 @@
                     <news_id>141</news_id>
                     <category>world</category>
                     <title>फ़तेहपुर:कलयुगी बेटे ने कर दी दिनदहाड़े अपने पिता की हत्या।</title>
-                    <link>https://www.yugantarpravah.com/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</link>
+                    <link>http://localhost/yuga/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</link>
                     <description>क्या है पूरा मामला..
 
 फ़तेहपुर:सदर कोतवाली क्षेत्र के शांतिनगर निवासी गोवर्धन मिश्रा अपने पुत्र देवेंद्र मिश्र के साथ क़रीब 12 बजे पटेल नगर स्थित एक प्राइवेट क्लिनिक में अपना ईलाज कराने</description>
                     <pubDate>26-10-2018</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1540471044.jpg</url>
+                        <url>http://localhost/yuga/uploads/1540471044.jpg</url>
                         <title>फ़तेहपुर:कलयुगी बेटे ने कर दी दिनदहाड़े अपने पिता की हत्या।</title>
-                        <link>https://www.yugantarpravah.com/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</link>
+                        <link>http://localhost/yuga/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1540471044.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1540471044.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/world/details/141/फ़तेहपुर-कलयुगी-बेटे-ने-कर-दी-दिनदहाड़े-अपने-पिता-की-हत्या।</guid>
+                    <image>http://localhost/yuga/uploads/1540471044.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1540471044.jpg</thumb>
                     
                 </item>
 
@@ -105,17 +124,17 @@
                     <news_id>142</news_id>
                     <category>world</category>
                     <title>रायबरेली में बड़ा ट्रेन हादसा कई लोगों की मौत बड़ी संख्या में लोग घायल-300 सौ से अधिक लोगों की फंसे होने की संभावना।</title>
-                    <link>https://www.yugantarpravah.com/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</link>
+                    <link>http://localhost/yuga/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</link>
                     <description>स्थानीय लोगों और हरचंदपुर स्टेशन के स्टाफ के साथ एनडीआरएफ की टीम स्क्यू ऑपरेशन में जुटी है.मामले में उत्तर रेलवे के एडीआरएम काजी महाराज अलाम ने बताया कि 14003 न्यू</description>
                     <pubDate>2018-10-25</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1540471394.jpg</url>
+                        <url>http://localhost/yuga/uploads/1540471394.jpg</url>
                         <title>रायबरेली में बड़ा ट्रेन हादसा कई लोगों की मौत बड़ी संख्या में लोग घायल-300 सौ से अधिक लोगों की फंसे होने की संभावना।</title>
-                        <link>https://www.yugantarpravah.com/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</link>
+                        <link>http://localhost/yuga/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1540471394.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1540471394.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/world/details/142/रायबरेली-में-बड़ा-ट्रेन-हादसा-कई-लोगों-की-मौत-बड़ी-संख्या-में-लोग-घायल-सौ-से-अधिक-लोगों-की-फंसे-होने-की-संभावना।</guid>
+                    <image>http://localhost/yuga/uploads/1540471394.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1540471394.jpg</thumb>
                     
                 </item>
 
@@ -123,17 +142,17 @@
                     <news_id>143</news_id>
                     <category>World</category>
                     <title>चीन के युवाओं को चाहिए बड़ी आंखें और पतली नाक, प्लास्टिक सर्जरी कराने वाले युवाओं में 40% तक बढ़ोतरी</title>
-                    <link>https://www.yugantarpravah.com/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</link>
+                    <link>http://localhost/yuga/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</link>
                     <description>चीन के युवाओं को अपनी छोटी-छोटी आंखें और छोटी सी दबी हुई नाक बिल्कुल पसंद नहीं है। उन्हें बड़ी पलकों के साथ बड़ी आंखें और पतली सी लंबी नाक चाहिए। अपनी इसी चाहत को पाने के लिए वो प्लास्टिक सर्जरी करा रहे हैं। इसकी वजह से चीन में अचानक प्लास्टिक</description>
                     <pubDate>2018-10-26</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
+                        <url>http://localhost/yuga/uploads/</url>
                         <title>चीन के युवाओं को चाहिए बड़ी आंखें और पतली नाक, प्लास्टिक सर्जरी कराने वाले युवाओं में 40% तक बढ़ोतरी</title>
-                        <link>https://www.yugantarpravah.com/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</link>
+                        <link>http://localhost/yuga/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/World/details/143/चीन-के-युवाओं-को-चाहिए-बड़ी-आंखें-और-पतली-नाक-प्लास्टिक-सर्जरी-कराने-वाले-युवाओं-में-%-तक-बढ़ोतरी</guid>
+                    <image>http://localhost/yuga/uploads/</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/</thumb>
                     
                 </item>
 
@@ -141,19 +160,19 @@
                     <news_id>144</news_id>
                     <category>world</category>
                     <title>अमेरिका ने भारत को चेताया- रूस से हथियार खरीदा तो विशेष छूट मिलने की कोई गारंटी नहीं</title>
-                    <link>https://www.yugantarpravah.com/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</link>
+                    <link>http://localhost/yuga/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</link>
                     <description>पेंटागन के एक शीर्ष अधिकारी ने भारत को आगाह किया है कि रूस से हथियारों की खरीद करने पर उसे अमेरिका से विशेष छूट मिलने की कोई गारंटी नहीं होगी।
 
 वाशिंगटन</description>
                     <pubDate>26-10-2018</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1540532125.jpg</url>
+                        <url>http://localhost/yuga/uploads/1540532125.jpg</url>
                         <title>अमेरिका ने भारत को चेताया- रूस से हथियार खरीदा तो विशेष छूट मिलने की कोई गारंटी नहीं</title>
-                        <link>https://www.yugantarpravah.com/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</link>
+                        <link>http://localhost/yuga/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1540532125.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1540532125.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/world/details/144/अमेरिका-ने-भारत-को-चेताया-रूस-से-हथियार-खरीदा-तो-विशेष-छूट-मिलने-की-कोई-गारंटी-नहीं</guid>
+                    <image>http://localhost/yuga/uploads/1540532125.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1540532125.jpg</thumb>
                     
                 </item>
 
@@ -161,17 +180,17 @@
                     <news_id>145</news_id>
                     <category>world</category>
                     <title>अमेरिका ने कहा- भारत के साथ 2+2 वार्ता गहरे रणनीतिक साझेदारी के संकेत</title>
-                    <link>https://www.yugantarpravah.com/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</link>
+                    <link>http://localhost/yuga/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</link>
                     <description>ट्रंप प्रशासन का कहना है कि अगले सप्ताह नयी दिल्ली में होने वाली पहली भारत-अमेरिका 2+2 वार्ता दोनों देशों के बीच मजबूत होती रणनीतिक साझेदारी का संकेत है। अमेरिका के विदेश</description>
                     <pubDate>26-10-2018</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1540532194.jpg</url>
+                        <url>http://localhost/yuga/uploads/1540532194.jpg</url>
                         <title>अमेरिका ने कहा- भारत के साथ 2+2 वार्ता गहरे रणनीतिक साझेदारी के संकेत</title>
-                        <link>https://www.yugantarpravah.com/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</link>
+                        <link>http://localhost/yuga/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1540532194.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1540532194.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/world/details/145/अमेरिका-ने-कहा-भारत-के-साथ-+-वार्ता-गहरे-रणनीतिक-साझेदारी-के-संकेत</guid>
+                    <image>http://localhost/yuga/uploads/1540532194.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1540532194.jpg</thumb>
                     
                 </item>
 
@@ -179,17 +198,17 @@
                     <news_id></news_id>
                     <category></category>
                     <title></title>
-                    <link>https://www.yugantarpravah.com//details//</link>
+                    <link>http://localhost/yuga//details//</link>
                     <description></description>
                     <pubDate></pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
+                        <url>http://localhost/yuga/uploads/</url>
                         <title></title>
-                        <link>https://www.yugantarpravah.com//details//</link>
+                        <link>http://localhost/yuga//details//</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com//details//</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga//details//</guid>
+                    <image>http://localhost/yuga/uploads/</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/</thumb>
                     
                 </item>
 
@@ -197,17 +216,17 @@
                     <news_id></news_id>
                     <category></category>
                     <title></title>
-                    <link>https://www.yugantarpravah.com//details//</link>
+                    <link>http://localhost/yuga//details//</link>
                     <description></description>
                     <pubDate></pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
+                        <url>http://localhost/yuga/uploads/</url>
                         <title></title>
-                        <link>https://www.yugantarpravah.com//details//</link>
+                        <link>http://localhost/yuga//details//</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com//details//</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga//details//</guid>
+                    <image>http://localhost/yuga/uploads/</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/</thumb>
                     
                 </item>
 
@@ -215,17 +234,17 @@
                     <news_id></news_id>
                     <category></category>
                     <title></title>
-                    <link>https://www.yugantarpravah.com//details//</link>
+                    <link>http://localhost/yuga//details//</link>
                     <description></description>
                     <pubDate></pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
+                        <url>http://localhost/yuga/uploads/</url>
                         <title></title>
-                        <link>https://www.yugantarpravah.com//details//</link>
+                        <link>http://localhost/yuga//details//</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com//details//</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga//details//</guid>
+                    <image>http://localhost/yuga/uploads/</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/</thumb>
                     
                 </item>
 
@@ -233,35 +252,17 @@
                     <news_id></news_id>
                     <category></category>
                     <title></title>
-                    <link>https://www.yugantarpravah.com//details//</link>
+                    <link>http://localhost/yuga//details//</link>
                     <description></description>
                     <pubDate></pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
+                        <url>http://localhost/yuga/uploads/</url>
                         <title></title>
-                        <link>https://www.yugantarpravah.com//details//</link>
+                        <link>http://localhost/yuga//details//</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com//details//</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
-                    
-                </item>
-
-                <item>
-                    <news_id></news_id>
-                    <category></category>
-                    <title></title>
-                    <link>https://www.yugantarpravah.com//details//</link>
-                    <description></description>
-                    <pubDate></pubDate>       
-                    <image>
-                        <url>https://www.yugantarpravah.com/uploads/</url>
-                        <title></title>
-                        <link>https://www.yugantarpravah.com//details//</link>
-                    </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com//details//</guid>
-                    <image>https://www.yugantarpravah.com/uploads/</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga//details//</guid>
+                    <image>http://localhost/yuga/uploads/</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/</thumb>
                     
                 </item>
 </channel>
