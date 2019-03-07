@@ -229,7 +229,15 @@ var page_positions = {
     '22': 'Category Page Ads Position Two (02)',
     '23': 'Category Page Ads Position Three (03)',
     '24': 'Category Page Ads Position Four (04)',
-    
+    '25': 'Category Page Ads Position Five (05)',
+    '26': 'Category Page Ads Position Six (06)',    
+    '27': 'Category Page Ads Position Seven (07)',
+    '28': 'Category Page Ads Position Eight (08)',
+    '29': 'Category Page Ads Position Nine (09)',
+    '210': 'Category Page Ads Position Ten (10)',
+    '211': 'Category Page Ads Position Eleven (11)',
+    '212': 'Category Page Ads Position Twelve (12)', 
+
     // for News details page
     '31': 'News Details Page Ads Position One (01)',
     '32': 'News Details Page Ads Position Two (02)',

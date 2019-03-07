@@ -4749,7 +4749,9 @@ div.polaroid {
 .technology_sec .left-padding {
     padding-left: 100px;
 }
-
+.left-padding-20{
+    padding-left: 40px;
+}
 .ad-item {
     text-align: right;
 }
@@ -4908,6 +4910,9 @@ footer {
 @media (max-width: 1024px){
 
     .technology_sec .left-padding {
+        padding-left: 20px;
+    }
+    .left-padding-20{
         padding-left: 20px;
     }
     

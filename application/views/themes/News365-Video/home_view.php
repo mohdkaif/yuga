@@ -494,7 +494,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                 </div> -->
             </div>
             <!-- /.left content inner -->
-         <div class="col-md-4 col-sm-12 left-padding">
+         <div class="col-md-4 col-sm-12 left-padding-20">
                     <!-- slider widget -->
                    <div class="ads-home-page">
                             <!-- widget item -->
