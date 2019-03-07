@@ -4163,6 +4163,11 @@ body {
     h1 {
         font-size: 23px;
     }
+    .ad-item {
+        max-width: 480px;
+        margin: 0 auto;
+        text-align: center; 
+    }
     .top_header_icon {
         float: left
     }
@@ -5324,7 +5329,9 @@ footer {
         width: 100%;
         padding: 5px 15px;
     }
-
+    .ad-item{
+        max-width: 300px;
+    }
     .technology_sec {
         padding: 0;
     }
