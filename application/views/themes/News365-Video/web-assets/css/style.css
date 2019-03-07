@@ -506,7 +506,10 @@ if it's not present, don't show loader */
 .btn_nine {
     background-color: #ff0042;
 }
-
+.horizontal-banner {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
 
 /*----------------------------*** ganeral style end ***-------------------------*/
 
@@ -4943,6 +4946,10 @@ footer {
     header .container-fluid.hidden-xs {
         padding: 0;
     }
+    .horizontal-banner{
+        margin-top: 20px;
+        margin-left: 0;
+    }
     .mobile-ads-home{
         display: block;
     }
@@ -5415,7 +5422,7 @@ footer {
     }
 
     .rn_block .post-padding {
-        padding: 5px 0;
+        /*padding: 5px 0;*/
     }
 
     .politics_wrapper div.polaroid{
