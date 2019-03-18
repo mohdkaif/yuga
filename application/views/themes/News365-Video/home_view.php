@@ -195,7 +195,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
 <section class="technology_sec">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-8 col-sm-12">
+            <div class="col-md-9 col-sm-12">
                 
             <?php
                 if (@$home_page_positions[1]['status'] == 1) {
@@ -517,7 +517,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                 </div> -->
             </div>
             <!-- /.left content inner -->
-         <div class="col-md-4 col-sm-12 left-padding-20">
+         <div class="col-md-3 col-sm-12">
                     <!-- slider widget -->
                    <div class="ads-home-page desktop-home-ads">
                             <!-- widget item -->

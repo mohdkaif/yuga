@@ -1288,7 +1288,7 @@ ul.newsticker {
     width: 100%;
     position: absolute;
     z-index: 1;
-    background: rgba(0, 0, 0, 0.3)
+    /*background: rgba(0, 0, 0, 0.3)*/
 }
 
 .post-wrapper .post-thumb .entry-thumb {
@@ -2542,6 +2542,7 @@ article p {
     font-size: 18px;
     margin-bottom: 20px;
     line-height: 26px;
+    text-align: justify;
 }
 
 .unorder-list {
