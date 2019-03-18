@@ -70,6 +70,14 @@ public $default_theme;
         $data['main_menu'] = $this->settings->main_menu();
         $data['menus'] = $this->settings->menu_position_3();
         $data['footer_menu'] = $this->settings->footer_menu();
+
+         $result = $this->db->select('pages.*,user_info.id,user_info.name')
+        ->from('pages')
+        ->join('user_info','user_info.id=pages.publishar_id')
+        ->get()
+        ->result();
+
+        $data['page_info'] = $result;
         $this->load->view('themes/' . $default_theme . '/header', $data);
         $this->load->view('themes/' . $default_theme . '/breaking');
         $this->load->view('themes/' . $default_theme . '/menu');
