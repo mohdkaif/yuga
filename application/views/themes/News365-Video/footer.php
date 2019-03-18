@@ -92,7 +92,7 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
 
             <div class="col-md-8 col-sm-12">
                 <div class="row">
-                    <div class="col-sm-6">
+                    <div class="col-sm-4">
                         <div class="footer-box link_sec">
                         <?php 
                            if($footer_menu>0)
@@ -124,7 +124,7 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                         </div>
                     </div>
 
-                    <div class="col-sm-6">
+                    <div class="col-sm-4">
                         <div class="footer-box">
                             <h3 class="category-headding">Populer News</h3>
                             <div class="headding-border bg-color-5"></div>
@@ -152,6 +152,40 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                            
                         </div>
                     </div>
+
+                    <div class="col-sm-4">
+                        <div class="footer-box link_sec">
+                        <?php 
+                           if(!empty($page_info)){
+                        ?>
+                            <h3 class="category-headding"></h3>
+                            <ul>
+                               
+                                    
+                                            <?php 
+                                            $bu = base_url();
+
+                                            foreach ($page_info as $key => $value) {
+                                                if($value->page_slug!=NULL){
+                                                    $slug1 = $bu.$value->page_slug;
+                                                }else{
+                                                    $slug1 = $bu."#";
+                                                }
+                                                ?>
+                                                <li><i class="fa fa-dot-circle-o"></i><a href="<?php echo $slug1?>"><?php echo @$value->title;?></a></li>;
+                                                <?php
+                                            }
+                                            
+                                        }
+                                    ?>
+                                
+                            </ul>
+                            <div class="headding-border bg-color-4"></div>
+                       
+                            
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
