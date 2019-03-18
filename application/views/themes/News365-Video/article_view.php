@@ -293,6 +293,32 @@
                             </div>
                         </div> -->
                     </div> 
+                    <!------------------- mobile ads-------------- -->
+                    <div class="ads-detail-page mobile-ads">
+                            <!-- widget item -->
+                    <?php 
+
+                    for($i=0;$i<$ads['newsdetailscount'];$i++){
+
+
+                    ?>
+                        <div class="ad-item">
+                            
+                            <?php
+                            
+                                if (@$ads['news_view_'.$i]!=NULL) {
+                                    $srcelem = @$ads['news_view_'.$i];
+                                      echo $srcelem;
+                                    } 
+                                ?>
+                           
+                          
+                        
+                        </div>
+                    <?php } ?>
+                        
+                </div>
+                    <!-------------------End mobile ads-------------- -->
                 <!-- Related news area
                 ============================================ -->
                 <div class="related-news-inner">
@@ -653,8 +679,32 @@
             </article>
         </div>
 
-        <div class="col-md-4 col-sm-12 left-padding">
+        <div class="col-md-4 col-sm-4 col-sm-12 left-padding">
             <aside class="sidebar">
+                <div class="ads-detail-page desktop-ads">
+                            <!-- widget item -->
+                    <?php 
+
+                    for($i=0;$i<$ads['newsdetailscount'];$i++){
+
+
+                    ?>
+                        <div class="ad-item">
+                            
+                            <?php
+                            
+                                if (@$ads['news_view_'.$i]!=NULL) {
+                                    $srcelem = @$ads['news_view_'.$i];
+                                      echo $srcelem;
+                                    } 
+                                ?>
+                           
+                          
+                        
+                        </div>
+                    <?php } ?>
+                        
+                </div>
                 <div class="banner-add <?php echo (@$lg_status_35==0?'hidden-lg hidden-md':'')?> <?php echo (@$sm_status_35==0?'hidden-xs hidden-sm':'')?>"> <!-- add -->
                     <span class="add-title"></span>
                     <?php echo @$news_view_35; ?>
@@ -788,8 +838,8 @@
                     </div> 
                 <?php echo form_close();?> 
             </div> -->
-            <div>
-                            <!-- widget item -->
+          <!--   <div class="ads-detail-page">
+                         
                            <?php 
 
                            for($i=0;$i<$ads['newsdetailscount'];$i++){
@@ -811,7 +861,7 @@
                                 </div>
                             <?php } ?>
                         
-            </div>
+            </div> -->
           
             </aside>
         </div>

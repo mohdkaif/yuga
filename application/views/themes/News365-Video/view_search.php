@@ -56,15 +56,31 @@ if (isset($ads) && is_array($ads)) {
                         <div class="post-style2 archive-post-style-2">
                              <?php if($value->image!=NULL){?>
                                 <!-- <a href="<?php echo base_url() . $value->page . '/details/' . $value->news_id . '/' . $exploded_TITLE; ?>"><img src="<?php echo base_url() . 'uploads/thumb/' . $value->image; ?>" alt="" ></a>  -->
-                                <a href="<?php echo base_url() . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>"><img src="<?php echo base_url() . 'uploads/thumb/' . $value->image; ?>" alt="" ></a>
-
+                                    <?php if($value->page!='Editor-Choice'){?>
+                                        <a href="<?php echo base_url() . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>">
+                                    <?php } else{ ?>
+                                        <a href="<?php echo base_url() . 'Story/'.$value->page .'/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>">
+                                    <?php } ?>
+                                    <img src="<?php echo base_url() . 'uploads/thumb/' . $value->image; ?>" alt="" ></a>
+                                
                            <?php } else{?>
-                            <a href="<?php echo base_url() . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" rel="bookmark">
+
+                                <?php if($value->page!='Editor-Choice'){?>
+                                    <a href="<?php echo base_url() . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" rel="bookmark">
+                                <?php } else{ ?>
+                                    <a href="<?php echo base_url() . 'Story/'.$value->page.'/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" rel="bookmark">
+                                <?php } ?>    
                             <img width="200" src="http://img.youtube.com/vi/<?php echo $value->videos; ?>/0.jpg" alt="" >
                            </a>
                             <?php }?>
                             <div class="post-style2-detail">
-                                <h4><a href="<?php echo base_url() . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" title=""><?php echo @$value->title; ?></a></h4>
+                                <h4>
+                                    <?php if($value->page!='Editor-Choice'){?>
+                                        <a href="<?php echo base_url()  . 'Story/'.$value->page.'/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" title=""><?php echo @$value->title; ?>
+                                    <?php } else{ ?>
+                                        <a href="<?php echo base_url()  . 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>" title=""><?php echo @$value->title; ?>
+                                    <?php } ?>  
+                                        </a></h4>
                                 <div class="date">
                                     <ul>
                                         <li>By<a title="" href="#"><span><?php if(@$value->reporter!=null){ echo @$value->reporter;} else{echo @$value->name;} ?></span></a> </li>
@@ -75,7 +91,13 @@ if (isset($ads) && is_array($ads)) {
                                 </div>
                                 <?php
                                 echo implode(' ', array_slice(explode(' ', htmlspecialchars_decode(strip_tags(@$value->news))), 0, 35));
-                                ?><a href="<?php echo base_url(). 'Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>"> Read more...</a>
+                                ?>
+                                <?php if($value->page=='Editor-Choice'){?>
+                                    <a href="<?php echo base_url()  . '/Story/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>"> Read more...</a>
+                                <?php } else{ ?>
+                                    <a href="<?php echo base_url()  . '/Story/'.$value->page.'/' . $slugrow['slug'] . '/' . $exploded_SLUG; ?>"> Read more...</a>
+                                <?php } ?>  
+
                             </div>
                         </div>
                     </div>

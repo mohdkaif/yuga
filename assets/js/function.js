@@ -205,7 +205,8 @@ function FormValidationUser()
 var pages = {
     '1': 'Home Page',
     '2':'Category Page',
-    '3':'News Details Page'
+    '3':'News Details Page',
+    '4' :'Google Ads Home Page'
 };
 
 var page_positions = {    
@@ -218,22 +219,44 @@ var page_positions = {
     '16': 'Home Page Ads Position Six (06)',
     '17': 'Home Page Ads Position Seven (07)',
     '18': 'Home Page Ads Position Eight (08)',
+    '19': 'Home Page Ads Position Nine (09)',
+    '110': 'Home Page Ads Position Ten (10)',
+    '111': 'Home Page Ads Position Eleven (11)',
+    '112': 'Home Page Ads Position Twelve (12)',
     
     // for Category page
     '21': 'Category Page Ads Position One (01)',
     '22': 'Category Page Ads Position Two (02)',
     '23': 'Category Page Ads Position Three (03)',
     '24': 'Category Page Ads Position Four (04)',
-    
+    '25': 'Category Page Ads Position Five (05)',
+    '26': 'Category Page Ads Position Six (06)',    
+    '27': 'Category Page Ads Position Seven (07)',
+    '28': 'Category Page Ads Position Eight (08)',
+    '29': 'Category Page Ads Position Nine (09)',
+    '210': 'Category Page Ads Position Ten (10)',
+    '211': 'Category Page Ads Position Eleven (11)',
+    '212': 'Category Page Ads Position Twelve (12)', 
+
     // for News details page
     '31': 'News Details Page Ads Position One (01)',
-    '32': 'News Details Page Ads Position Tow (02)',
+    '32': 'News Details Page Ads Position Two (02)',
     '33': 'News Details Page Ads Position Three (03)',
     '34': 'News Details Page Ads Position Four (04)',
     '35': 'News Details Page Ads Position Five (05)',
     '36': 'News Details Page Ads Position Six (06)',    
     '37': 'News Details Page Ads Position Seven (07)',
-    '38': 'News Details Page Ads Position Eight (08)'      
+    '38': 'News Details Page Ads Position Eight (08)',
+    '39': 'News Details Page Ads Position Nine (09)',
+    '310': 'News Details Page Ads Position Ten (10)',
+    '311': 'News Details Page Ads Position Eleven (11)',
+    '312': 'News Details Page Ads Position Twelve (12)', 
+
+    ///Google Ads
+    '41': 'Google Ads Home Page Ads Position One (01)',
+    '42': 'Google Ads Home Page Ads Position Two (02)',
+    '43': 'Google Ads Home Page Ads Position Three (03)',
+    '44': 'Google Ads Home Page Ads Position Four (04)',             
 };
 
 function view_ad_pages(selected){
@@ -268,5 +291,5 @@ function view_ad_position_name(ad_position){
 }
 
 function delete_confirm(){
-    return confirm("Are you want to Delete?");
+    return confirm("Are you sure you want to Delete?");
 }

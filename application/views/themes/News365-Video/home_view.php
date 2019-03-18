@@ -475,7 +475,30 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         </div>
                     </div>
                     <!-- /.row -->
+                    <div class="horizontal-banner">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=0;$i<=0;$i++){
 
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
+                    </div>
 
                      
 
@@ -494,13 +517,13 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                 </div> -->
             </div>
             <!-- /.left content inner -->
-         <div class="col-md-4 col-sm-12 left-padding">
+         <div class="col-md-4 col-sm-12 left-padding-20">
                     <!-- slider widget -->
-                   <div>
+                   <div class="ads-home-page desktop-home-ads">
                             <!-- widget item -->
                            <?php 
                         
-                           for($i=0;$i<=0;$i++){
+                           for($i=0;$i<=3;$i++){
 
 
                             ?>
@@ -598,8 +621,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                             </div> <!-- / tab item -->
                         </div> <!-- / tab_content -->
                     </div> <!-- / tab -->
-                      <div>
-                            <!-- widget item -->
+                     <!--  <div class="ads-home-page">
+                           
                            <?php 
                            for($i=1;$i<=2;$i++){
 
@@ -620,7 +643,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 </div>
                             <?php } ?>
                         
-                    </div>
+                    </div> -->
 
         </div>
             <!-- side content end -->
@@ -690,7 +713,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <!-- widget item -->
                        <?php 
                     
-                       for($i=3;$i<=3;$i++){
+                       for($i=1;$i<=1;$i++){
 
 
                         ?>
@@ -698,8 +721,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
-                                        $srcelem = @$ads['home_'.$i];
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
                                     ?>
@@ -757,9 +780,9 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
             </div>
             <div class="col-md-12 col-sm-12">
                 <!-- video -->
-                <?php if(@$home_page_positions[7]['status']==1){ 
+               <!--  <?php if(@$home_page_positions[7]['status']==1){ 
                     //print_r($pn['position_7']);die();
-                ?>
+                ?> -->
                     <!-- video -->
                     <div class="video-headding"><?php echo display('video_striming')?></div>
                     <div class="contentSlide">
@@ -833,7 +856,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                             </div>
                         </div>
                     </div>
-                     <?php } ?>
+                     <!-- <?php } ?> -->
                 <!-- /.video -->
             </div>
             </div>
@@ -1026,10 +1049,10 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                     </div>
 
                     <div class="horizontal-banner">
-                        <!-- widget item -->
+                     
                        <?php 
                     
-                       for($i=4;$i<=4;$i++){
+                       for($i=2;$i<=2;$i++){
 
 
                         ?>
@@ -1037,8 +1060,8 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
-                                        $srcelem = @$ads['home_'.$i];
+                                    if (@$ads['google_'.$i]!=NULL) {
+                                        $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
                                     ?>
@@ -1046,7 +1069,6 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <?php } ?>
                     
                     </div>
-
                     <?php if(@$home_page_positions[6]['status']==1){ 
 
 
@@ -1220,6 +1242,203 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                         <!-- /.row -->
                     </section>
                     <?php } ?>
+
+                     <?php if(@$home_page_positions[7]['status']==1){ 
+
+
+                        ?>
+
+                    <!-- technology Area
+                        ============================================ -->
+                    <section class="politics_wrapper">
+                        <h3 class="category-headding "><img class="icon-img" src="<?php echo $ci['category_image_6']; ?>"><?php echo '  '. @$home_page_positions[7]['cat_name']?></h3>
+                        <div class="headding-border"></div>
+                        <div class="">
+                            <div id="content-slide-3" class="">
+                                <!-- item-1 -->
+                                <div class="item">
+                                    <div class="row">
+                                        <!-- left side post -->
+                                        <div class="col-sm-6 col-md-6">
+                                        <?php  if (@$pn['position_7']['news_title_1']!=NULL) { ?>
+                                            <div class="post-wrapper wow fadeIn effects" data-wow-duration="1s">
+                                                <!-- post title -->
+                                                <h3><a href="<?php echo @$pn['position_7']['news_link_1']?>"><?php echo @$pn['position_7']['news_title_1']?></a></h3>
+                                                <!-- post image -->
+                                                <div class="post-thumb polaroid">
+                                            <?php
+                                                if (@$pn['position_7']['image_check_1']!=NULL) {
+                                                  echo'<img class="img-responsive" src="'.@$pn['position_7']['image_large_1'].'" alt="">';
+                                                } else {
+                                                  echo'<img  class="img-responsive"  src="http://img.youtube.com/vi/' . @$pn['position_7']['video_1'] . '/0.jpg" alt="photography" />';
+                                                }
+                                            ?>
+                                                        <div class="overlay">
+                                                        <?php if(@$pn['position_7']['video_1']!=NULL) {?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_1']?>" class="expand"><i class="fa fa-play"></i></a>
+                                                        <?php } else{?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_1']?>" class="expand12"><i class="pe-7s-angle-right"></i></a>
+                                                        <?php } ?>
+                                                            <a class="close-overlay hidden">x</a>
+                                                        </div>
+                                                   
+                                                </div>
+                                            </div>
+                                            <div class="post-title-author-details">
+                                                <div class="post-editor-date">
+                                                    <!-- post date -->
+                                                    <div class="post-date">
+                                                        <i class="pe-7s-clock"></i><?php echo @$pn['position_7']['ptime_1']?>
+                                                    </div>
+                                                    <!-- post comment -->
+                                                </div>
+                                            </div>
+                                            <?php }?>
+                                        </div>
+                                        <!-- right side post -->
+                                        <div class="col-sm-6 col-md-6">
+                                            <div class="row rn_block">
+                                            <?php 
+                                            for($i=2;$i<=5;$i++){
+                                                if(!isset($pn['position_7']['news_title_'.$i]))
+                                                continue
+                                            ?>
+                                                <div class="col-xs-6 col-md-6 col-sm-6 post-padding effects">
+                                                    <!-- post image -->
+                                                <div class="post-thumb wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+                                            
+                                            <?php
+                                                if (@$pn['position_7']['image_check_'.$i]!=NULL) {
+                                                  echo'<img class="img-responsive" src="'.@$pn['position_7']['image_thumb_'.$i].'" alt="">';
+                                                } else {
+                                                   echo'<img  class="img-responsive"  src="http://img.youtube.com/vi/' . @$pn['position_7']['video_'.$i] . '/0.jpg" alt="photography" />';
+                                                }
+                                            ?>
+                                                    <div class="overlay">
+                                                    <?php if(@$pn['position_7']['video_'.$i]!=NULL) {?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_'.$i]?>" class="expand"><i class="fa fa-play"></i></a>
+                                                        <?php } else{?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_'.$i]?>" class="expand12"><i class="pe-7s-angle-right"></i></a>
+                                                        <?php } ?>
+                                                        <a class="close-overlay hidden">x</a>
+                                                    </div>
+                                                       
+                                                    </div>
+                                                    <div class="post-title-author-details">
+                                                        <!-- post image -->
+                                                        <h5><a href="<?php echo @$pn['position_7']['news_link_'.$i]?>"><?php echo @$pn['position_7']['news_title_'.$i]?></a></h5>
+                                                    </div>
+                                                </div>
+                                                <?php }?>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- item-2 -->
+                                <div class="item">
+                                    <div class="row">
+                                        <!-- left side post -->
+                                        <div class="col-sm-6 col-md-6">
+                                        <?php  if (@$pn['position_7']['news_title_6']!=NULL) {?>
+                                            <div class="post-wrapper wow fadeIn effects" data-wow-duration="1s">
+                                                <!-- post title -->
+                                                <h3><a href="<?php echo @$pn['position_7']['news_link_6']?>"><?php echo @$pn['position_7']['news_title_6']?></a></h3>
+                                                <!-- post image -->
+                                                <div class="post-thumb">
+                                            <?php
+                                                if (@$pn['position_7']['image_check_6']!=NULL) {
+                                                  echo'<img class="img-responsive" src="'.@$pn['position_7']['image_large_6'].'" alt="">';
+                                                } else {
+                                                    echo'<img  class="img-responsive"  src="http://img.youtube.com/vi/' . @$pn['position_7']['video_6'] . '/0.jpg" alt="photography" />';
+                                                }
+                                            ?>
+                                                        <div class="overlay">
+                                                        <?php if(@$pn['position_7']['video_6']!=NULL) {?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_6']?>" class="expand"><i class="fa fa-play"></i></a>
+                                                        <?php } else{?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_6']?>" class="expand12"><i class="pe-7s-angle-right"></i></a>
+                                                        <?php } ?>
+                                                            <a class="close-overlay hidden">x</a>
+                                                        </div>
+                                                   
+                                                </div>
+                                            </div>
+                                            <div class="post-title-author-details">
+                                                <div class="post-editor-date">
+                                                    <!-- post date -->
+                                                    <div class="post-date">
+                                                        <i class="pe-7s-clock"></i><?php echo @$pn['position_7']['ptime_6']?>
+                                                    </div>
+                                                    <!-- post comment -->
+                                                </div>
+                                            </div>
+                                            <?php }?>
+                                        </div>
+                                        <!-- right side post -->
+                                        <div class="col-sm-6 col-md-6">
+                                            <div class="row rn_block">
+                                                <?php 
+                                                for($i=7;$i<=10;$i++){
+                                                    if(!isset($pn['position_7']['news_title_'.$i]))
+                                                    continue
+                                                ?>
+                                                <div class="col-xs-6 col-md-6 col-sm-6 post-padding effects">
+                                                    <!-- post image -->
+                                                    <div class="post-thumb wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+                                                    <?php
+                                                        if (@$pn['position_7']['image_check_'.$i]!=NULL) {
+                                                          echo'<img class="img-responsive" src="'.@$pn['position_7']['image_thumb_'.$i].'" alt="">';
+                                                        } else {
+                                                            echo'<img  class="img-responsive"  src="http://img.youtube.com/vi/' . @$pn['position_7']['video_'.$i] . '/0.jpg" alt="photography" />';
+                                                        }
+                                                    ?>
+                                                    <div class="overlay">
+                                                    <?php if(@$pn['position_7']['video_'.$i]!=NULL) {?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_'.$i]?>" class="expand"><i class="fa fa-play"></i></a>
+                                                        <?php } else{?>
+                                                         <a href="<?php echo @$pn['position_7']['news_link_'.$i]?>" class="expand12"><i class="pe-7s-angle-right"></i></a>
+                                                        <?php } ?>
+                                                        <a class="close-overlay hidden">x</a>
+                                                    </div>
+                                                </div>
+                                                    <div class="post-title-author-details">
+                                                        <!-- post image -->
+                                                        <h5><a href="<?php echo @$pn['position_7']['news_link_'.$i]?>"><?php echo @$pn['position_7']['news_title_'.$i]?></a></h5>
+                                                    </div>
+                                                </div>
+                                                <?php }?>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="horizontal-banner">
+                     
+                                <?php 
+                            
+                               for($i=3;$i<=3;$i++){
+
+
+                                ?>
+                                    <div class="ad-item">
+                                        
+                                        <?php
+                                        
+                                            if (@$ads['google_'.$i]!=NULL) {
+                                                $srcelem = @$ads['google_'.$i];
+                                                  echo $srcelem;
+                                                } 
+                                            ?>
+                                    </div>
+                                <?php } ?>
+                            
+                            </div>
+                        </div>
+                        <!-- /.row -->
+                    </section>
+                    <?php } ?>
                 </div>
    <div class="col-md-4 col-sm-4 left-padding">
                 <!-- right content wrapper -->
@@ -1243,6 +1462,58 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                     <span class="add-title"> </span>
                     <?php echo @$home_13; ?>
                 </div>
+
+                <!-- ads-->
+                <div class="ads-home-page desktop-home-ads">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=4;$i<=11;$i++){
+
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['home_'.$i]!=NULL) {
+                                        $srcelem = @$ads['home_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
+                </div>
+                <!-- mobile ads-->
+                 <div class="ads-home-page mobile-ads-home">
+                        <!-- widget item -->
+                       <?php 
+                    
+                       for($i=0;$i<=11;$i++){
+
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['home_'.$i]!=NULL) {
+                                        $srcelem = @$ads['home_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                        <?php } ?>
+                    
+                </div>
+
                  
                 <!-- / tab -->
             </div>

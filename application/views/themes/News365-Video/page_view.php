@@ -161,7 +161,32 @@ background-image: url('<?php echo base_url().@$cat_imgae->category_imgae;?>');"
                     <?php echo @$category_23; ?>
                 </div>
 
-                
+                <!-- pages ads-->
+                <div class="ads-category-page">
+                            <!-- widget item -->
+                    <?php 
+                    if($ads['categorydetailscount']){
+                        for($i=0;$i<$ads['categorydetailscount'];$i++){
+
+
+                        ?>
+                            <div class="ad-item">
+                                
+                                <?php
+                                
+                                    if (@$ads['category_'.$i]!=NULL) {
+                                        $srcelem = @$ads['category_'.$i];
+                                          echo $srcelem;
+                                        } 
+                                    ?>
+                               
+                              
+                            
+                            </div>
+                    <?php } 
+                    }?>
+                        
+                </div>
                 <!-- social icon -->
                 <h3 class="category-headding "><?php echo display('social_pixel')?></h3>
                 <div class="headding-border"></div>

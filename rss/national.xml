@@ -2,28 +2,85 @@
 <rss  xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
 <channel>
 <title>YugantarPravah RSS Feed RSS</title>
-<link>https://www.yugantarpravah.com/</link>
+<link>http://localhost/yuga/</link>
 <description></description>
 <image>
                     <title>YugantarPravahRSS Feed</title>
-                    <url>https://www.yugantarpravah.com/uploads/images/logo.jpg white</url>
-                    <link>https://www.yugantarpravah.com/</link>
+                    <url>http://localhost/yuga/uploads/images/logo.jpg white</url>
+                    <link>http://localhost/yuga/</link>
               </image>
+                <item>
+                    <news_id>392</news_id>
+                    <category>national</category>
+                    <title>hgjhgjgj</title>
+                    <link>http://localhost/yuga/national/details/392/hgjhgjgj</link>
+                    <description>hgjhgjhgjghjghjgh
+</description>
+                    <pubDate>2019-03-07</pubDate>       
+                    <image>
+                        <url>http://localhost/yuga/uploads/1551961402.jpg</url>
+                        <title>hgjhgjgj</title>
+                        <link>http://localhost/yuga/national/details/392/hgjhgjgj</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/392/hgjhgjgj</guid>
+                    <image>http://localhost/yuga/uploads/1551961402.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1551961402.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>391</news_id>
+                    <category>national</category>
+                    <title>asdc</title>
+                    <link>http://localhost/yuga/national/details/391/asdc</link>
+                    <description>azsdcfv
+</description>
+                    <pubDate>2019-03-07</pubDate>       
+                    <image>
+                        <url>http://localhost/yuga/uploads/1551961360.jpg</url>
+                        <title>asdc</title>
+                        <link>http://localhost/yuga/national/details/391/asdc</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/391/asdc</guid>
+                    <image>http://localhost/yuga/uploads/1551961360.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1551961360.jpg</thumb>
+                    
+                </item>
+
+                <item>
+                    <news_id>390</news_id>
+                    <category>national</category>
+                    <title>asdcf</title>
+                    <link>http://localhost/yuga/national/details/390/asdcf</link>
+                    <description>azsdcffdszxd
+</description>
+                    <pubDate>2019-03-07</pubDate>       
+                    <image>
+                        <url>http://localhost/yuga/uploads/1551961295.jpg</url>
+                        <title>asdcf</title>
+                        <link>http://localhost/yuga/national/details/390/asdcf</link>
+                    </image>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/390/asdcf</guid>
+                    <image>http://localhost/yuga/uploads/1551961295.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1551961295.jpg</thumb>
+                    
+                </item>
+
                 <item>
                     <news_id>379</news_id>
                     <category>national</category>
                     <title>यूपी:गोरखपुर में पीएम लांच करेंगे 'प्रधानमंत्री किसान सम्मान निधि' योजना!पहले चरण में एक करोड़ किसानों को लाभ।</title>
-                    <link>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
+                    <link>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
                     <description>लखनऊ: प्रधानमंत्री नरेंद्र मोदी रविवार को उत्तर प्रदेश के गोरखपुर में &amp;#39;प्रधानमंत्री किसान सम्मान निधि&amp;#39; (पीएम-किसान) योजना को लॉन्च करेंगे। 75 हजार करोड़ रुपये की इस योजना के पहले चरण में</description>
                     <pubDate>2019-02-24</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550989861.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550989861.jpg</url>
                         <title>यूपी:गोरखपुर में पीएम लांच करेंगे 'प्रधानमंत्री किसान सम्मान निधि' योजना!पहले चरण में एक करोड़ किसानों को लाभ।</title>
-                        <link>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
+                        <link>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550989861.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550989861.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/379/यूपी-गोरखपुर-में-पीएम-लांच-करेंगे-'प्रधानमंत्री-किसान-सम्मान-निधि'-योजना!पहले-चरण-में-एक-करोड़-किसानों-को-लाभ।</guid>
+                    <image>http://localhost/yuga/uploads/1550989861.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550989861.jpg</thumb>
                     
                 </item>
 
@@ -31,17 +88,17 @@
                     <news_id>377</news_id>
                     <category>national</category>
                     <title>फतेहपुर:सेना को है खुली छूट जैसे चाहें वैसे ले पाक से बदला-साध्वी निरंजन ज्योति।</title>
-                    <link>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
+                    <link>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
                     <description>फ़तेहपुर: पुलवामा में हुए आतंकी हमले के बाद से पूरे देश मे एक स्वर से पाकिस्तान से बदला लेने की मांग तेज हो चली है।लोग सरकार से मांग कर रहे हैं</description>
                     <pubDate>2019-02-21</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550753335.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550753335.jpg</url>
                         <title>फतेहपुर:सेना को है खुली छूट जैसे चाहें वैसे ले पाक से बदला-साध्वी निरंजन ज्योति।</title>
-                        <link>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
+                        <link>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550753335.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550753335.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/377/फतेहपुर-सेना-को-है-खुली-छूट-जैसे-चाहें-वैसे-ले-पाक-से-बदला-साध्वी-निरंजन-ज्योति।</guid>
+                    <image>http://localhost/yuga/uploads/1550753335.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550753335.jpg</thumb>
                     
                 </item>
 
@@ -49,17 +106,17 @@
                     <news_id>372</news_id>
                     <category>national</category>
                     <title>केंद्रीय कर्मचारियों को मोदी सरकार का चुनावी तोहफ़ा,महंगाई भत्ते में हुई बढ़ोत्तरी!</title>
-                    <link>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
+                    <link>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
                     <description>नई दिल्ली: मोदी सरकार ने सरकारी कर्मचारियों को चुनावी तोहफा देते हुए महंगाई भत्ते को बढ़ा दिया है,भत्ते को 9 फीसदी से बढ़ा कर 12 फ़ीसदी करने का निर्णय केंद्र सरकार</description>
                     <pubDate>2019-02-20</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550637632.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550637632.jpg</url>
                         <title>केंद्रीय कर्मचारियों को मोदी सरकार का चुनावी तोहफ़ा,महंगाई भत्ते में हुई बढ़ोत्तरी!</title>
-                        <link>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
+                        <link>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550637632.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550637632.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/372/केंद्रीय-कर्मचारियों-को-मोदी-सरकार-का-चुनावी-तोहफ़ा-महंगाई-भत्ते-में-हुई-बढ़ोत्तरी!</guid>
+                    <image>http://localhost/yuga/uploads/1550637632.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550637632.jpg</thumb>
                     
                 </item>
 
@@ -67,17 +124,17 @@
                     <news_id>367</news_id>
                     <category>national</category>
                     <title>नई दिल्ली:पीएम मोदी ने बुलाई सर्वदलीय बैठक।राहुल ने कहा-हर तरह से सरकार के साथ।</title>
-                    <link>https://www.yugantarpravah.com/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</link>
+                    <link>http://localhost/yuga/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</link>
                     <description>नई दिल्ली: जम्मू कश्मीर के पुलवामा के निकट हुए आतंकी हमले के बाद पूरे देश मे पाकिस्तान के खिलाफ गुस्सा उफ़ान पर है।पूरे देश से पाकिस्तान को सबक सिखाने के</description>
                     <pubDate>2019-02-16</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550290502.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550290502.jpg</url>
                         <title>नई दिल्ली:पीएम मोदी ने बुलाई सर्वदलीय बैठक।राहुल ने कहा-हर तरह से सरकार के साथ।</title>
-                        <link>https://www.yugantarpravah.com/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</link>
+                        <link>http://localhost/yuga/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550290502.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550290502.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/367/नई-दिल्ली-पीएम-मोदी-ने-बुलाई-सर्वदलीय-बैठक।राहुल-ने-कहा-हर-तरह-से-सरकार-के-साथ।</guid>
+                    <image>http://localhost/yuga/uploads/1550290502.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550290502.jpg</thumb>
                     
                 </item>
 
@@ -85,17 +142,17 @@
                     <news_id>364</news_id>
                     <category>national</category>
                     <title>यूपी:पुलवामा में हुए आतंकी हमले में उन्नाव का लाल शहीद-सूचना मिलते ही परिजनों में मचा कोहराम।</title>
-                    <link>https://www.yugantarpravah.com/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</link>
+                    <link>http://localhost/yuga/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</link>
                     <description>उन्नाव: चार दिन पहले एक महीने की छुट्टी बिताकर वापस देश सेवा करने के लिए ड्यूटी पर गए उन्नाव जिले के रहने वाले अजीत कुमार पुलवामा में हुए आतंकी हमले में</description>
                     <pubDate>2019-02-15</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550214616.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550214616.jpg</url>
                         <title>यूपी:पुलवामा में हुए आतंकी हमले में उन्नाव का लाल शहीद-सूचना मिलते ही परिजनों में मचा कोहराम।</title>
-                        <link>https://www.yugantarpravah.com/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</link>
+                        <link>http://localhost/yuga/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550214616.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550214616.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/364/यूपी-पुलवामा-में-हुए-आतंकी-हमले-में-उन्नाव-का-लाल-शहीद-सूचना-मिलते-ही-परिजनों-में-मचा-कोहराम।</guid>
+                    <image>http://localhost/yuga/uploads/1550214616.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550214616.jpg</thumb>
                     
                 </item>
 
@@ -103,17 +160,17 @@
                     <news_id>363</news_id>
                     <category>national</category>
                     <title>बड़ी ख़बर:पुलवामा में आतंकी हमले के चंद घण्टे बाद घाटी में आतंकियों ने फिर बरसाई गोलियां..!</title>
-                    <link>https://www.yugantarpravah.com/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</link>
+                    <link>http://localhost/yuga/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</link>
                     <description>जम्मू कश्मीर: घाटी में हालात इस समय बद से बदतर बने हुए हैं, गुरुवार दोपहर हुए बड़े आतंकी हमले में से जहां पूरे देश मे गुस्सा भरा हुआ है वहीं दूसरी</description>
                     <pubDate>2019-02-14</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550166259.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550166259.jpg</url>
                         <title>बड़ी ख़बर:पुलवामा में आतंकी हमले के चंद घण्टे बाद घाटी में आतंकियों ने फिर बरसाई गोलियां..!</title>
-                        <link>https://www.yugantarpravah.com/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</link>
+                        <link>http://localhost/yuga/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550166259.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550166259.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/363/बड़ी-ख़बर-पुलवामा-में-आतंकी-हमले-के-चंद-घण्टे-बाद-घाटी-में-आतंकियों-ने-फिर-बरसाई-गोलियां-!</guid>
+                    <image>http://localhost/yuga/uploads/1550166259.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550166259.jpg</thumb>
                     
                 </item>
 
@@ -121,17 +178,17 @@
                     <news_id>361</news_id>
                     <category>national</category>
                     <title>जम्मू कश्मीर:आतंकी हमले से एक बार फिर दहली घाटी सीआरपीएफ के करीब अठारह जवान शहीद।</title>
-                    <link>https://www.yugantarpravah.com/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</link>
+                    <link>http://localhost/yuga/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</link>
                     <description>जम्मू कश्मीर: घाटी में एक बार फिर आतंकी हमले से सीआरपीएफ के कई जवान शहीद हो गए हैं और बड़ी संख्या में लोग घायल हैं।पुलिस और मीडिया सूत्रों के अनुसार पुलवामा</description>
                     <pubDate>2019-02-14</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550144580.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550144580.jpg</url>
                         <title>जम्मू कश्मीर:आतंकी हमले से एक बार फिर दहली घाटी सीआरपीएफ के करीब अठारह जवान शहीद।</title>
-                        <link>https://www.yugantarpravah.com/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</link>
+                        <link>http://localhost/yuga/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550144580.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550144580.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/361/जम्मू-कश्मीर-आतंकी-हमले-से-एक-बार-फिर-दहली-घाटी-सीआरपीएफ-के-करीब-अठारह-जवान-शहीद।</guid>
+                    <image>http://localhost/yuga/uploads/1550144580.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550144580.jpg</thumb>
                     
                 </item>
 
@@ -139,17 +196,17 @@
                     <news_id>360</news_id>
                     <category>national</category>
                     <title>नई दिल्ली:मुलायम ने मोदी के शान में पढ़े क़सीदे की दोबारा पीएम बनने की दुआ..!</title>
-                    <link>https://www.yugantarpravah.com/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</link>
+                    <link>http://localhost/yuga/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</link>
                     <description>नई दिल्ली: राजनीति की चाल कब किस ओर चल दी जाएगी इसका अंदाजा लगा पाना अब जरा मुश्किल हो चला है ख़ासकर चाल को समझ पाना तब औऱ मुश्किल हो जाता</description>
                     <pubDate>2019-02-13</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1550064316.jpg</url>
+                        <url>http://localhost/yuga/uploads/1550064316.jpg</url>
                         <title>नई दिल्ली:मुलायम ने मोदी के शान में पढ़े क़सीदे की दोबारा पीएम बनने की दुआ..!</title>
-                        <link>https://www.yugantarpravah.com/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</link>
+                        <link>http://localhost/yuga/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1550064316.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1550064316.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/360/नई-दिल्ली-मुलायम-ने-मोदी-के-शान-में-पढ़े-क़सीदे-की-दोबारा-पीएम-बनने-की-दुआ-!</guid>
+                    <image>http://localhost/yuga/uploads/1550064316.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1550064316.jpg</thumb>
                     
                 </item>
 
@@ -157,17 +214,17 @@
                     <news_id>354</news_id>
                     <category>national</category>
                     <title>होटल में लगी भयंकर आग से 17 लोगों की मौत..राहत बचाव कार्य जारी।</title>
-                    <link>https://www.yugantarpravah.com/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</link>
+                    <link>http://localhost/yuga/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</link>
                     <description>नईदिल्ली: मंगलवार तड़के जब होटल में रुके हुए लोग गहरी नींद में सो रहे थे तभी होटल की तीसरी मंजिल में लगी आग से पूरे होटल में अफ़रा तफ़री मची गई</description>
                     <pubDate>2019-02-12</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549954416.jpg</url>
+                        <url>http://localhost/yuga/uploads/1549954416.jpg</url>
                         <title>होटल में लगी भयंकर आग से 17 लोगों की मौत..राहत बचाव कार्य जारी।</title>
-                        <link>https://www.yugantarpravah.com/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</link>
+                        <link>http://localhost/yuga/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549954416.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549954416.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/354/होटल-में-लगी-भयंकर-आग-से-लोगों-की-मौत-राहत-बचाव-कार्य-जारी।</guid>
+                    <image>http://localhost/yuga/uploads/1549954416.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1549954416.jpg</thumb>
                     
                 </item>
 
@@ -175,17 +232,17 @@
                     <news_id>344</news_id>
                     <category>national</category>
                     <title>किन किसानों को मिलेगा पीएम सम्मान योजना के तहत 6000 रुपए का लाभ-ऐसे देखें नाम।</title>
-                    <link>https://www.yugantarpravah.com/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</link>
+                    <link>http://localhost/yuga/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</link>
                     <description>लोकसभा चुनाव के पहले पेश हुए अंतरिम बजट में मोदी सरकार ने किसानों के लिए प्रति वर्ष 6000 रुपए उनके खाते में भेजने की घोषणा की है।इस योजना के तहत</description>
                     <pubDate>2019-02-08</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549613728.jpg</url>
+                        <url>http://localhost/yuga/uploads/1549613728.jpg</url>
                         <title>किन किसानों को मिलेगा पीएम सम्मान योजना के तहत 6000 रुपए का लाभ-ऐसे देखें नाम।</title>
-                        <link>https://www.yugantarpravah.com/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</link>
+                        <link>http://localhost/yuga/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549613728.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549613728.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/344/किन-किसानों-को-मिलेगा-पीएम-सम्मान-योजना-के-तहत-रुपए-का-लाभ-ऐसे-देखें-नाम।</guid>
+                    <image>http://localhost/yuga/uploads/1549613728.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1549613728.jpg</thumb>
                     
                 </item>
 
@@ -193,72 +250,17 @@
                     <news_id>340</news_id>
                     <category>national</category>
                     <title>बड़ी खबर:जल्द भारत लाया जाएगा भगोड़ा विजय माल्या..ब्रिटेन ने दी मंजूरी।</title>
-                    <link>https://www.yugantarpravah.com/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</link>
+                    <link>http://localhost/yuga/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</link>
                     <description>नई दिल्ली: नौ हज़ार करोड़ से भी ज्यादा के घोटाले व मनी लांड्रिंग के मामले में काफ़ी समय से भारत सरकार विजय माल्या की तलाश कर रही है।भारत से भागकर ब्रिटेन</description>
                     <pubDate>2019-02-04</pubDate>       
                     <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549302079.jpg</url>
+                        <url>http://localhost/yuga/uploads/1549302079.jpg</url>
                         <title>बड़ी खबर:जल्द भारत लाया जाएगा भगोड़ा विजय माल्या..ब्रिटेन ने दी मंजूरी।</title>
-                        <link>https://www.yugantarpravah.com/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</link>
+                        <link>http://localhost/yuga/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</link>
                     </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549302079.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549302079.jpg</thumb>
-                    
-                </item>
-
-                <item>
-                    <news_id>337</news_id>
-                    <category>national</category>
-                    <title>पश्चिम बंगाल में हालात बेकाबू.. ममता के धरने के बाद TMC कार्यकर्ताओं की गुंडागर्दी जारी।</title>
-                    <link>https://www.yugantarpravah.com/national/details/337/पश्चिम-बंगाल-में-हालात-बेकाबू-ममता-के-धरने-के-बाद-TMC-कार्यकर्ताओं-की-गुंडागर्दी-जारी।</link>
-                    <description>कोलकाता में हालात बेकाबू होते चले जा रहें हैं लोकसभा चुनावों से ऐन पहले बंगाल में रविवार शाम से शुरू हुए सियासी ड्रामे में प्रदेस की मुख्यमंत्री धरने पर बैठ</description>
-                    <pubDate>2019-02-03</pubDate>       
-                    <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549219383.jpg</url>
-                        <title>पश्चिम बंगाल में हालात बेकाबू.. ममता के धरने के बाद TMC कार्यकर्ताओं की गुंडागर्दी जारी।</title>
-                        <link>https://www.yugantarpravah.com/national/details/337/पश्चिम-बंगाल-में-हालात-बेकाबू-ममता-के-धरने-के-बाद-TMC-कार्यकर्ताओं-की-गुंडागर्दी-जारी।</link>
-                    </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/337/पश्चिम-बंगाल-में-हालात-बेकाबू-ममता-के-धरने-के-बाद-TMC-कार्यकर्ताओं-की-गुंडागर्दी-जारी।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549219383.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549219383.jpg</thumb>
-                    
-                </item>
-
-                <item>
-                    <news_id>336</news_id>
-                    <category>national</category>
-                    <title>Kumbh 2019:मौनी अमावस्या पर तीन करोड़ श्रद्धालुओं के पहुंचने की उम्मीद.. सुरक्षा के पुख़्ता इंतजाम।</title>
-                    <link>https://www.yugantarpravah.com/national/details/336/Kumbh-मौनी-अमावस्या-पर-तीन-करोड़-श्रद्धालुओं-के-पहुंचने-की-उम्मीद-सुरक्षा-के-पुख़्ता-इंतजाम।</link>
-                    <description>प्रयागराज: माघ मास में पड़ने वाली अमावस्या को मौनी अमावस्या भी कहा जाता है इस दिन गंगा स्नान का हिन्दू धर्म में बहुत बड़ा महत्व है खासकर इस बार प्रयागराज कुम्भ</description>
-                    <pubDate>2019-02-03</pubDate>       
-                    <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549218332.jpg</url>
-                        <title>Kumbh 2019:मौनी अमावस्या पर तीन करोड़ श्रद्धालुओं के पहुंचने की उम्मीद.. सुरक्षा के पुख़्ता इंतजाम।</title>
-                        <link>https://www.yugantarpravah.com/national/details/336/Kumbh-मौनी-अमावस्या-पर-तीन-करोड़-श्रद्धालुओं-के-पहुंचने-की-उम्मीद-सुरक्षा-के-पुख़्ता-इंतजाम।</link>
-                    </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/336/Kumbh-मौनी-अमावस्या-पर-तीन-करोड़-श्रद्धालुओं-के-पहुंचने-की-उम्मीद-सुरक्षा-के-पुख़्ता-इंतजाम।</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549218332.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549218332.jpg</thumb>
-                    
-                </item>
-
-                <item>
-                    <news_id>335</news_id>
-                    <category>national</category>
-                    <title>पश्चिम बंगाल में पुलिस ने CBI टीम को किया गिरफ्तार..</title>
-                    <link>https://www.yugantarpravah.com/national/details/335/पश्चिम-बंगाल-में-पुलिस-ने-CBI-टीम-को-किया-गिरफ्तार</link>
-                    <description>पश्चिमबंगाल: बहुचर्चित शारदा चिटफ़ंड घोटाले की जाँच को लेकर रविवार को कोलकाता पुलिस और सीबीआई के बीच टकराव की पैदा हो गया।
-आपको बता दे कि शारदा चिट फंड केस में पुलिस</description>
-                    <pubDate>2019-02-03</pubDate>       
-                    <image>
-                        <url>https://www.yugantarpravah.com/uploads/1549210021.jpg</url>
-                        <title>पश्चिम बंगाल में पुलिस ने CBI टीम को किया गिरफ्तार..</title>
-                        <link>https://www.yugantarpravah.com/national/details/335/पश्चिम-बंगाल-में-पुलिस-ने-CBI-टीम-को-किया-गिरफ्तार</link>
-                    </image>
-                    <guid isPermaLink='false'>https://www.yugantarpravah.com/national/details/335/पश्चिम-बंगाल-में-पुलिस-ने-CBI-टीम-को-किया-गिरफ्तार</guid>
-                    <image>https://www.yugantarpravah.com/uploads/1549210021.jpg</image>
-                    <thumb>https://www.yugantarpravah.com/uploads/thumb/1549210021.jpg</thumb>
+                    <guid isPermaLink='false'>http://localhost/yuga/national/details/340/बड़ी-खबर-जल्द-भारत-लाया-जाएगा-भगोड़ा-विजय-माल्या-ब्रिटेन-ने-दी-मंजूरी।</guid>
+                    <image>http://localhost/yuga/uploads/1549302079.jpg</image>
+                    <thumb>http://localhost/yuga/uploads/thumb/1549302079.jpg</thumb>
                     
                 </item>
 </channel>
