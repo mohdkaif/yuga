@@ -306,7 +306,7 @@
                             
                             <?php
                             
-                                if (@$ads['news_view_'.$i]!=NULL) {
+                                if (@$ads['news_view_'.$i]!=NULL && $ads['news_view_sm_status_'.$i]==1) {
                                     $srcelem = @$ads['news_view_'.$i];
                                       echo $srcelem;
                                     } 
@@ -693,7 +693,7 @@
                             
                             <?php
                             
-                                if (@$ads['news_view_'.$i]!=NULL) {
+                                if (@$ads['news_view_'.$i]!=NULL && $ads['news_view_lg_status_'.$i]==1) {
                                     $srcelem = @$ads['news_view_'.$i];
                                       echo $srcelem;
                                     } 

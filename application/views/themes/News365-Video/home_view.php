@@ -531,7 +531,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                     
                                     <?php
                                     
-                                        if (@$ads['home_'.$i]!=NULL) {
+                                        if (@$ads['home_'.$i]!=NULL && $ads['home_lg_status_'.$i]==1) {
                                             $srcelem = @$ads['home_'.$i];
                                               echo $srcelem;
                                             } 
@@ -721,7 +721,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['google_'.$i]!=NULL) {
+                                    if (@$ads['google_'.$i]!=NULL  && $ads['google_lg_status_'.$i]==1) {
                                         $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
@@ -1060,7 +1060,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['google_'.$i]!=NULL) {
+                                    if (@$ads['google_'.$i]!=NULL  && $ads['google_lg_status_'.$i]==1) {
                                         $srcelem = @$ads['google_'.$i];
                                           echo $srcelem;
                                         } 
@@ -1426,7 +1426,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                         
                                         <?php
                                         
-                                            if (@$ads['google_'.$i]!=NULL) {
+                                            if (@$ads['google_'.$i]!=NULL  && $ads['google_lg_status_'.$i]==1) {
                                                 $srcelem = @$ads['google_'.$i];
                                                   echo $srcelem;
                                                 } 
@@ -1476,7 +1476,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
+                                    if (@$ads['home_'.$i]!=NULL  && $ads['home_lg_status_'.$i]==1) {
                                         $srcelem = @$ads['home_'.$i];
                                           echo $srcelem;
                                         } 
@@ -1501,7 +1501,7 @@ $videoList = json_decode(file_get_contents('https://www.googleapis.com/youtube/v
                                 
                                 <?php
                                 
-                                    if (@$ads['home_'.$i]!=NULL) {
+                                    if (@$ads['home_'.$i]!=NULL  && $ads['google_sm_status_'.$i]==1) {
                                         $srcelem = @$ads['home_'.$i];
                                           echo $srcelem;
                                         } 

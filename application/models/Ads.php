@@ -15,6 +15,7 @@ class Ads extends CI_Model {
         $query = $this->db->get();
         if ($query->num_rows() > 0) {
             $result = $query->result();
+           
             $i=0;
             foreach ($result as $key => $value) {
                 
@@ -25,8 +26,9 @@ class Ads extends CI_Model {
                     $ads['lg_status_'. $value->ad_position] = $value->large_status;
                     $ads['sm_status_'. $value->ad_position] = $value->mobile_status;
                     $ads2[$page . '_' . $i] = $value->embed_code;
-                    $ads2['lg_status_'. $i] = $value->large_status;
-                    $ads2['sm_status_'. $i] = $value->mobile_status;
+                    $ads2[$page.'_lg_status_'. $i] = $value->large_status;
+
+                    $ads2[$page.'_sm_status_'. $i] = $value->mobile_status;
                     $i++;
                 }
             }
@@ -40,8 +42,8 @@ class Ads extends CI_Model {
                     $ads['lg_status_'. $value->ad_position] = $value->large_status;
                     $ads['sm_status_'. $value->ad_position] = $value->mobile_status;
                     $ads2[$page . '_' . $i] = $value->embed_code;
-                    $ads2['lg_status_'. $i] = $value->large_status;
-                    $ads2['sm_status_'. $i] = $value->mobile_status;
+                    $ads2[$page.'_lg_status_'. $i] = $value->large_status;
+                    $ads2[$page.'_sm_status_'. $i] = $value->mobile_status;
                     $i++;
                 } 
                 
@@ -56,8 +58,8 @@ class Ads extends CI_Model {
                     $ads['lg_status_'. $value->ad_position] = $value->large_status;
                     $ads['sm_status_'. $value->ad_position] = $value->mobile_status;
                     $ads2[$page . '_' . $i] = $value->embed_code;
-                    $ads2['lg_status_'. $i] = $value->large_status;
-                    $ads2['sm_status_'. $i] = $value->mobile_status;
+                    $ads2[$page.'_lg_status_'. $i] = $value->large_status;
+                    $ads2[$page.'_sm_status_'. $i] = $value->mobile_status;
 
                     $i++;
                 }
@@ -75,8 +77,8 @@ class Ads extends CI_Model {
                     $ads['lg_status_'. $value->ad_position] = $value->large_status;
                     $ads['sm_status_'. $value->ad_position] = $value->mobile_status;
                     $ads2[$page . '_' . $i] = $value->embed_code;
-                    $ads2['lg_status_'. $i] = $value->large_status;
-                    $ads2['sm_status_'. $i] = $value->mobile_status;
+                    $ads2[$page.'_lg_status_'. $i] = $value->large_status;
+                    $ads2[$page.'_sm_status_'. $i] = $value->mobile_status;
 
                     $i++;
                     

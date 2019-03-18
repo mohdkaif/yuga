@@ -174,7 +174,7 @@ background-image: url('<?php echo base_url().@$cat_imgae->category_imgae;?>');"
                                 
                                 <?php
                                 
-                                    if (@$ads['category_'.$i]!=NULL) {
+                                    if (@$ads['category_'.$i]!=NULL && $ads['category_lg_status_'.$i]==1) {
                                         $srcelem = @$ads['category_'.$i];
                                           echo $srcelem;
                                         } 
