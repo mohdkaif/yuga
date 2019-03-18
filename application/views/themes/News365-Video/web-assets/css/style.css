@@ -2537,7 +2537,9 @@ footer ul li a:hover {
     color: #f60d2b;
     font-weight: 600;
 }
-
+.link_sec ul.footer-list-ul{
+    column-count: 1;
+}
 article p{
     font-size: 18px;
     margin-bottom: 20px;
@@ -4152,6 +4154,12 @@ button.btn.copy-img img {
     margin-right: 0;
     width: 100%;
 }
+.videoContainer{
+    padding-bottom: 40.25%;
+}
+.videoContainer img{
+    width: 100%;
+}
 .col-sm-8 {
     padding-right: 8px;
 }
@@ -4166,6 +4174,9 @@ body {
     .h1,
     h1 {
         font-size: 23px;
+    }
+    article p{
+        margin: 0 10px;
     }
     .ad-item {
         max-width: 480px;

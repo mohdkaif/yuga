@@ -67,7 +67,7 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
 <footer>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-4 col-sm-12">
+            <div class="col-md-3 col-sm-12">
                 <div class="footer-box footer-logo-address header-bann"> <!-- address  -->
                     <img src="<?php echo base_url('uploads/images/footer_logo.png')?>" class="logo_img img-responsive" alt="">
                         
@@ -90,7 +90,7 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                 </div> <!-- /.address  -->
             </div>
 
-            <div class="col-md-8 col-sm-12">
+            <div class="col-md-9 col-sm-12">
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="footer-box link_sec">
@@ -158,8 +158,9 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                         <?php 
                            if(!empty($page_info)){
                         ?>
-                            <h3 class="category-headding"></h3>
-                            <ul>
+                            <h3 class="category-headding">About Us</h3>
+                            <div class="headding-border bg-color-4"></div>
+                            <ul class="footer-list-ul">
                                
                                     
                                             <?php 
@@ -172,7 +173,8 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                                                     $slug1 = $bu."#";
                                                 }
                                                 ?>
-                                                <li><i class="fa fa-dot-circle-o"></i><a href="<?php echo $slug1?>"><?php echo @$value->title;?></a></li>;
+                                                <li><i class="fa fa-dot-circle-o"></i>
+                                                    <a href="<?php echo $slug1?>"><?php echo @$value->title;?></a></li>
                                                 <?php
                                             }
                                             
@@ -180,7 +182,7 @@ if (preg_match('/bot|crawl|curl|dataprovider|search|get|spider|find|java|majesti
                                     ?>
                                 
                             </ul>
-                            <div class="headding-border bg-color-4"></div>
+                            
                        
                             
                         </div>
