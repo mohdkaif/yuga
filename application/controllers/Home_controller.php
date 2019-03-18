@@ -17,6 +17,7 @@ class Home_controller extends CI_Controller {
         $this->load->model('All_cata', 'cata');
         $this->load->model('Common_model', 'cm');
         $this->load->model('Write_setting_model', 'wsm');
+        $this->load->model('admin/Page_model', 'page');
 
     }
 
@@ -58,7 +59,8 @@ class Home_controller extends CI_Controller {
         $data['main_menu'] = $this->settings->main_menu();
         $data['menus'] = $this->settings->menu_position_3();
         $data['footer_menu'] = $this->settings->footer_menu();
-               
+        $data['page_info'] = $this->page->page_list();
+        
         $this->load->view('themes/' . $default_theme . '/header', $data);
         $this->load->view('themes/' . $default_theme . '/breaking', $data);
         $this->load->view('themes/' . $default_theme . '/menu');

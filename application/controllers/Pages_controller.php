@@ -19,6 +19,10 @@ class Pages_controller extends CI_Controller {
         $this->load->library('pagination');
         $this->load->model('Write_setting_model', 'wsm');
         $this->load->model('New_page', 'new_page');
+        $this->load->model('admin/Page_model', 'pagemodel');
+        
+        
+        
     }
 
 
@@ -56,7 +60,7 @@ if(@$page_data!=FALSE){
         $data['bn'] = $this->cm->breaking_news();
         //latest news
         $data['ln'] = $this->cm->latest_news();
-        
+        $data['mr'] = $this->cm->most_read_dbse();
         //Getting SEO Properties
         $data['seo']['analytics_code'] = $this->settings->get_previous_settings('settings', 5);
         $data['seo']['alexa_code'] = $this->settings->get_previous_settings('settings', 11);
@@ -67,6 +71,13 @@ if(@$page_data!=FALSE){
         $data['menus'] = $this->settings->menu_position_3();
         $data['footer_menu'] = $this->settings->footer_menu();
 
+        $result = $this->db->select('pages.*,user_info.id,user_info.name')
+        ->from('pages')
+        ->join('user_info','user_info.id=pages.publishar_id')
+        ->get()
+        ->result();
+
+        $data['page_info'] = $result;
         $this->load->view('themes/' . $default_theme . '/header', $data);
         $this->load->view('themes/' . $default_theme . '/breaking');
         $this->load->view('themes/' . $default_theme . '/menu');
@@ -121,7 +132,13 @@ if(@$page_data!=FALSE){
         $data['main_menu'] = $this->settings->main_menu();
         $data['menus'] = $this->settings->menu_position_3();
         $data['footer_menu'] = $this->settings->footer_menu();
+        $result = $this->db->select('pages.*,user_info.id,user_info.name')
+        ->from('pages')
+        ->join('user_info','user_info.id=pages.publishar_id')
+        ->get()
+        ->result();
 
+        $data['page_info'] = $result;
         $this->load->view('themes/' . $default_theme . '/header', $data);
         $this->load->view('themes/' . $default_theme . '/breaking');
         $this->load->view('themes/' . $default_theme . '/menu');
