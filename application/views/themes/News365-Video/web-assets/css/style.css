@@ -4180,7 +4180,7 @@ body {
     }*/
     .ad-item {
         max-width: 480px;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
         /*text-align: center; */
     }
     .top_header_icon {
