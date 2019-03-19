@@ -4175,13 +4175,13 @@ body {
     h1 {
         font-size: 23px;
     }
-    article p{
+    /*article p{
         margin: 0 10px;
-    }
+    }*/
     .ad-item {
         max-width: 480px;
         margin: 0 auto;
-        text-align: center; 
+        /*text-align: center; */
     }
     .top_header_icon {
         float: left
@@ -5368,6 +5368,12 @@ footer {
         display: block;
         width: 100%;
         padding: 5px 15px;
+    }
+    .padding-space{
+        padding: 0 15px !important;
+    }
+    .headding-border{
+        margin-bottom: 20px;
     }
     .ad-item{
         max-width: 300px;

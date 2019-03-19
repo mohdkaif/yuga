@@ -22,7 +22,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-sm-8">
+        <div class="col-sm-8 padding-space">
             <article class="content">
                  <div class="ad-s <?php echo (@$lg_status_31==0?'hidden-lg hidden-md':'')?> <?php echo (@$sm_status_31==0?'hidden-xs hidden-sm':'')?>">
                         <?php echo @$news_view_31; ?>
@@ -679,7 +679,7 @@
             </article>
         </div>
 
-        <div class="col-md-4 col-sm-4 col-sm-12 left-padding">
+        <div class="col-md-4 col-sm-4 col-sm-12 left-padding padding-space">
             <aside class="sidebar">
                 <div class="ads-detail-page desktop-ads">
                             <!-- widget item -->
