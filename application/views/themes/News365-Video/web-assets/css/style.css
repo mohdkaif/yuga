@@ -4180,7 +4180,7 @@ body {
     }*/
     .ad-item {
         max-width: 480px;
-        margin: 0 auto;
+        /*margin: 0 auto;*/
         /*text-align: center; */
     }
     .top_header_icon {
@@ -5376,7 +5376,7 @@ footer {
         margin-bottom: 20px;
     }
     .ad-item{
-        max-width: 300px;
+        /*max-width: 300px;*/
     }
     .technology_sec {
         padding: 0;
